@@ -32,9 +32,9 @@ source: pm-skills/pm-product-strategy/porters-five-forces
 - PDCA Plan 단계에서 brand-strategy 수립 시
 
 ## FPOF 컨텍스트
-- 이 스킬은 리 브랜드의 스트리트웨어/키치 패션 시장에서의 경쟁 포지셔닝 분석에 활용합니다
+- 이 스킬은 리 브랜드의 데님/헤리티지 캐주얼 시장에서의 경쟁 포지셔닝 분석에 활용합니다 (DENIM × TRENDY 사분면 — Diesel·Marithé 주변, Levi's 대비 현대적)
 - 관련 프리셋: `brand.config.json`(포지셔닝, 경쟁 전략), `categories.json`(유니/우먼스/용품 카테고리), `channels.json`(6개 채널 구조)
-- IP 캐릭터 유니버스라는 차별화 자산이 경쟁 역학에 미치는 영향을 특히 분석해야 합니다
+- 100년 헤리티지 아카이브(Buddy Lee, Lee 101, Storm Rider, Lazy-S, Union-Alls)라는 차별화 자산이 경쟁 역학에 미치는 영향을 특히 분석해야 합니다
 
 ## 사전 준비
 1. `.fpof-state.json` → 현재 시즌 확인
@@ -114,9 +114,9 @@ source: pm-skills/pm-product-strategy/porters-five-forces
 - 위조품/카피 상품 위험
 
 **전략적 시사점:**
-- IP 유니버스를 통한 대체 불가능한 가치 창출
-- 생태계/커뮤니티 구축으로 고객 고착도 강화
-- 지속적 상품 혁신 및 경험 차별화
+- 100년 헤리티지 아카이브 재해석을 통한 대체 불가능한 가치 창출 (Levi's/Diesel 대비 SENSUOUS WORKWEAR 차별화)
+- 생태계/커뮤니티 구축으로 고객 고착도 강화 (FSS 공간 경험, 뮤즈 팬덤)
+- 지속적 상품 혁신 및 경험 차별화 (indigood™ ESG, QR/리오더)
 
 ### Step 6: 신규 진입자 위협 (Threat of New Entrants)
 새로운 경쟁자가 시장에 진입할 위험을 분석합니다.

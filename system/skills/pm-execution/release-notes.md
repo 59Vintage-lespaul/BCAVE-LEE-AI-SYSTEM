@@ -60,8 +60,8 @@ source: pm-skills/pm-execution/release-notes
 - 사용자 제공 시 비주얼/이미지 포함
 
 **변환 예시**:
-- 내부: "26SS 그래픽 티 라인 IP 캐릭터 Buddy Lee 적용 프린트 3종 추가"
-- 대외: "Buddy Lee와 함께하는 새로운 그래픽 티 3종이 추가되었습니다. 키치한 스트리트 감성을 일상에서 자유롭게 표현해보세요."
+- 내부: "26SS 그래픽 티 라인 Buddy Lee 아카이브 재해석 프린트 3종 추가"
+- 대외: "Buddy Lee 아카이브를 오늘의 감각으로 재해석한 그래픽 티 3종이 추가되었습니다. 100년 리의 헤리티지를 지금의 워크웨어로 즐겨보세요."
 
 ### Step 4: 릴리즈 노트 구조화
 
@@ -88,7 +88,7 @@ source: pm-skills/pm-execution/release-notes
 
 ### Step 6: 리 적용 필터링
 - `tone-manner.json`의 브랜드 어휘/톤 반영
-- IP 캐릭터 활용 상품의 경우 `ip-bible.json` 참조하여 세계관 일관성 확인
+- 헤리티지 아카이브(Buddy Lee / Lee 101 / Storm Rider / Lazy-S / Union-Alls) 활용 상품의 경우 `ip-bible.json` 참조하여 스토리 일관성 확인
 
 ## 산출물 포맷
 ```markdown

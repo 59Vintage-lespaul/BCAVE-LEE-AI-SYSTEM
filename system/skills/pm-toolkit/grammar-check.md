@@ -79,8 +79,8 @@ source: pm-skills/pm-toolkit/grammar-check
 - `tone-manner.json`의 브랜드 어휘 사용 여부
 - 금지 어휘 사용 여부
 - 채널별 적합한 톤 사용 여부 (SNS vs 자사몰 vs PR)
-- Kitsch/Street 감성과의 부합성
-- 코어 타겟(18~29세) 언어 감각과의 일치
+- SENSUOUS WORKWEAR / Heritage 감성과의 부합성
+- 코어 타겟(18~29세 메인 + 29~45세 서브) 언어 감각과의 일치
 
 ## 산출물 포맷
 ```markdown

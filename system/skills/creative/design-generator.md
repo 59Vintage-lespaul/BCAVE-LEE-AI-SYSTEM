@@ -51,7 +51,7 @@ outputs:
 
 ## 언제 사용
 
-- "키치 오버사이즈 후드 디자인 시안 뽑아줘" — 자연어 → 디자인 시각화
+- "헤리티지 워크웨어 오버사이즈 후드 디자인 시안 뽑아줘" — 자연어 → 디자인 시각화
 - "이 스케치를 디자인으로 발전시켜줘" — 손 스케치 → 프레젠테이션급 시안
 - "그래픽 티 디자인 5가지 배리에이션 만들어줘" — 변형 매트릭스 생성
 - "이번 시즌 컬렉션 시안 한 번에 뽑아줘" — 복수 아이템 일괄 시안
@@ -62,7 +62,7 @@ outputs:
 1. `.fpof-state.json` → 현재 시즌, 프로젝트 확인
 2. `presets/lee/visual-identity.json` → 디자인 키워드, 컬러 팔레트, 그래픽 스타일
 3. `presets/lee/categories.json` → 카테고리 구조, 히어로 아이템
-4. `presets/lee/ip-bible.json` → IP 캐릭터 정보 (그래픽 활용 시)
+4. `presets/lee/ip-bible.json` → 헤리티지 아카이브 (Buddy Lee, 101, Storm Rider, Lazy-S, Union-Alls) 정보 (그래픽 활용 시)
 5. `presets/lee/brand.config.json` → 포지셔닝 (UNI/W 구분)
 6. 선행 산출물 (있으면 반영, 없으면 생략 가능):
    - `output/[시즌]/design/[아이템]-moodboard.md` — 무드보드
@@ -140,7 +140,7 @@ outputs:
 ③ 소재: 코튼, 스웨트, 나일론, 데님, 니트 ...
 ④ 그래픽/디테일: 프린트, 자수, 와펜, 패치, 컷아웃, 지퍼 ...
 ⑤ 컬러: 구체적 색상 또는 톤 (비비드, 파스텔, 모노 ...)
-⑥ 무드/맥락: 스트릿, 캠퍼스, 페스티벌, 레트로, 키치 ...
+⑥ 무드/맥락: 워크웨어, 캠퍼스, 아메리카나, 레트로, 헤리티지, 빈티지 데님 ...
 ```
 
 #### 1-B: 스케치 이미지 파싱
@@ -191,16 +191,16 @@ outputs:
 ```
 축 1: 실루엣 변형 (오버사이즈 ↔ 크롭 ↔ 레귤러)
 축 2: 그래픽 변형 (대형 프린트 ↔ 미니 포인트 ↔ 올오버)
-축 3: 소재 변형 (헤비 스웨트 ↔ 라이트 코튼 ↔ 기능성)
-축 4: 컬러 변형 (비비드 ↔ 모노 ↔ 파스텔)
-축 5: IP 변형 (KIKY 변신 ↔ 릴리 ↔ 프렌즈 그룹 ↔ IP 없음)
+축 3: 소재 변형 (헤비 스웨트 ↔ 라이트 코튼 ↔ 데님 ↔ 기능성)
+축 4: 컬러 변형 (인디고/네이비 ↔ 뉴트럴 ↔ 시즌 액센트)
+축 5: 아카이브 변형 (Buddy Lee ↔ Lee 101 ↔ Storm Rider ↔ Union-Alls ↔ 아카이브 없음)
 ```
 
 #### 배리에이션 테이블
 
 ```markdown
-| # | 컨셉명 | 변형 축 | 실루엣 | 그래픽 | 소재 | 컬러 | IP | 무드 |
-|---|--------|--------|--------|--------|------|------|---|------|
+| # | 컨셉명 | 변형 축 | 실루엣 | 그래픽 | 소재 | 컬러 | 아카이브 | 무드 |
+|---|--------|--------|--------|--------|------|------|---------|------|
 | V1 | [이름] | 실루엣+그래픽 | | | | | | |
 | V2 | [이름] | 컬러+IP | | | | | | |
 | V3 | [이름] | 소재+실루엣 | | | | | | |
@@ -272,10 +272,10 @@ High resolution, clean lines, precise proportions.
 
 | 프리셋 | 배경 | 포즈 | 무드 | 용도 |
 |--------|------|------|------|------|
-| **스트릿** | 도심 골목/벽화 | 움직임, 캐주얼 | 자유분방 | 룩북/인스타 |
-| **스튜디오** | 라이트그레이 | 정면/측면 | 클린 | PDP/무신사 |
-| **에디토리얼** | 로케이션 | 연출 포즈 | 감성적 | 캠페인/화보 |
-| **키치** | 네온 컬러 월 | 과장된/펑키 | 에너지틱 | SNS/바이럴 |
+| **워크웨어** | 빈티지 공장/작업장 | 일상적 움직임 | 오리지널/실용 | 룩북/인스타 |
+| **스튜디오** | 라이트그레이 또는 레드/네이비 배경 | 정면/측면 | 클린 | PDP/무신사 |
+| **에디토리얼** | 로케이션 (Kansas City 감성) | 연출 포즈 | 감성적 헤리티지 | 캠페인/화보 |
+| **아메리카나** | 빈티지 다이너/로드 | 클래식 포즈 | 따뜻한 레트로 | SNS/바이럴 |
 
 ---
 
@@ -287,8 +287,8 @@ High resolution, clean lines, precise proportions.
 
 ```
 [Subject]: [캐릭터/모티프/텍스트 설명]
-[Style]: Lee brand style — bold outline, flat color fill,
-         doodle/graffiti aesthetic, pop art influenced
+[Style]: Lee brand style — heritage workwear, vintage Americana,
+         denim craftsmanship, archive-inspired (Buddy Lee / 101 / Storm Rider)
 [Color]: [사용 컬러 — 시그니처 컬러 우선]
 [Composition]: [배치, 크기, 여백]
 [Technical]: Vector-ready illustration, clean edges,
@@ -296,21 +296,21 @@ High resolution, clean lines, precise proportions.
 [Size]: Suitable for [가슴 프린트 / 등 전면 / 소매] placement
 ```
 
-#### IP 캐릭터 활용 시 (ip-bible.json 참조)
+#### 헤리티지 아카이브 활용 시 (ip-bible.json + visual-identity.json 참조)
 
-| 캐릭터 | 그룹 | 활용 | 프롬프트 추가 |
-|--------|------|------|-------------|
-| **KIKY** | A (메인) | 변신 모드 활용 | "KIKY character in [변신 테마] transformation, doodle style" |
-| **릴리** | A (메인) | 여성스러운 포인트 | "Lilly character floating gently, soft pastel accent" |
-| **레오** | A (메인) | 캐주얼/유머 | "Leo the leopard cat, lazy confident pose" |
-| **쿼바오** | A (메인) | 여행/어드벤처 | "Quokka-bao munching, travel adventure theme" |
-| **하운드** | A (메인) | 로맨틱/츤데레 | "Hound heart-shaped silhouette, tsundere expression" |
-| 프렌즈 그룹 | A 전체 | 그룹샷 | "Wacky Universe friends group, playful interaction" |
+| 아카이브 | 연도 | 활용 | 프롬프트 추가 |
+|---------|------|------|-------------|
+| **Buddy Lee** | 1920 | 시그니처 캐릭터·굿즈 | "Buddy Lee doll silhouette, heritage mascot, clean vintage illustration" |
+| **Lee 101** | 1926 | 데님 라벨·시그니처 라인 | "Lee 101 label detail, authentic denim heritage since 1926" |
+| **Lazy-S** | 1946 | 포켓 스티치 디테일 | "Lee Lazy-S pocket stitching detail, iconic jeans reference" |
+| **Union-Alls** | 1913 | 워크웨어 원형 | "Union-Alls one-piece workwear heritage, original 1913 silhouette" |
+| **Storm Rider** | 1954 | 데님 자켓 클래식 | "Lee Storm Rider denim jacket with cowboy illustration, Premium Quality tag" |
+| 아카이브 그룹 | — | 브랜드 내러티브 | "Lee archive heritage collage — Kansas City 1889, workwear legacy" |
 
-**KIKY 변신 프롬프트 규칙:**
-- 변신 테마는 시즌 컨셉과 연결 (예: 시즌 테마 "서핑" → KIKY 서퍼 변신)
-- ip-bible.json의 기존 변신 예시 참조: 자유의 여신상, 바이커, 화가, 복서, 낚시꾼, 식물, 파일럿, 기사
-- 신규 변신 테마 창작 가능 — 리 DNA와 정합성 필수
+**헤리티지 재해석 프롬프트 규칙:**
+- 아카이브 모티프는 시즌 컨셉과 연결 (예: 시즌 테마 "SENSUOUS WORKWEAR" → Storm Rider 현대적 재해석)
+- ip-bible.json과 visual-identity.json의 로고 시스템 참조: Twitch, Vintage, House, Union, Archive 로고
+- 신규 재해석 방향 창작 가능 — 리 DNA와 정합성 필수, 로고 형태 변형 금지
 
 ---
 
@@ -498,10 +498,10 @@ Secondary:
 
 ## 체크리스트
 
-- [ ] visual-identity.json 디자인 키워드(5개) 반영?
-- [ ] 시그니처 컬러 HEX 정확히 사용? (#FEF200, #000000, #68A8DB)
-- [ ] IP 캐릭터 사용 시 ip-bible.json 그룹/관계 준수?
-- [ ] KIKY 변신 테마가 시즌 컨셉과 연결?
+- [ ] visual-identity.json 디자인 키워드(Heritage, Workwear, Denim, Sensuous, Clean & Modern, Kansas City) 반영?
+- [ ] 시그니처 컬러 정확히 사용? (Black #000000, Navy PANTONE 19-4111, White, Ivory, Stone Grey)
+- [ ] 헤리티지 아카이브 사용 시 ip-bible.json + visual-identity.json 로고 시스템 준수?
+- [ ] 아카이브 재해석이 시즌 컨셉(SENSUOUS WORKWEAR)과 연결?
 - [ ] 라인별 스타일 프리셋(UNI/W/ACC) 적용?
 - [ ] bta-guideline.md 준수? (3B 착장 금지, 로고 변형 금지)
 - [ ] categories.json 히어로 아이템과의 정합성?

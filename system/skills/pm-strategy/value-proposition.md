@@ -104,8 +104,8 @@ source: pm-skills/pm-product-strategy/value-proposition
   - 브랜드 아이덴티티 정립 → 가치 제안의 명확성
   - 히트상품 전략 → 가치 제안 기반 상품 기획
   - 글로벌 대응 → 글로벌 타겟을 위한 가치 제안 변형
-- IP 캐릭터 활용 가능성
-  - IP 유니버스가 "Alternatives" 대비 독자적 경쟁 우위
+- 헤리티지 아카이브 활용 가능성
+  - Buddy Lee(1920) / Lee 101(1926) / Lazy-S(1946) / Union-Alls(1913) / Storm Rider(1954) 아카이브가 "Alternatives" 대비 100년 헤리티지 독자 우위
 
 ### 참고: 이 템플릿 vs Strategyzer Value Proposition Canvas
 

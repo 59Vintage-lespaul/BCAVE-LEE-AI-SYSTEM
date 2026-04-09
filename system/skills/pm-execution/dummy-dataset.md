@@ -31,7 +31,7 @@ source: pm-skills/pm-execution/dummy-dataset
 ## FPOF 컨텍스트
 - `categories.json`의 유니/우먼스/용품 카테고리 구조를 데이터 스키마에 반영
 - `channels.json`의 6개 채널(매출/목표/성장률)을 현실적인 데이터 분포에 활용
-- 리 브랜드 특성(18~29세 타겟, IP 캐릭터, 시즌 주기)을 데이터 패턴에 반영
+- 리 브랜드 특성(18~29세 메인 + 29~45세 서브 타겟, 헤리티지 아카이브, 시즌 주기)을 데이터 패턴에 반영
 
 ## 사전 준비
 - `.fpof-state.json`에서 현재 시즌/단계 확인
@@ -76,7 +76,7 @@ import random
 
 # Configuration
 ROWS = 100
-FILENAME = "wacky_willy_sales.csv"
+FILENAME = "lee_sales.csv"
 
 # 리 채널/카테고리 기반 설정
 channels = ["자사몰", "무신사", "29CM", "W컨셉", "백화점", "글로벌"]

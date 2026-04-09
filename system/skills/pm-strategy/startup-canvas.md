@@ -77,7 +77,7 @@ BMC와 Lean Canvas는 전략과 비즈니스 모델을 하나의 프레임으로
 - **How**: 상황을 바꾸는 기능과 역량
 - **What after**: 이점과 결과
 - **Alternatives**: 경쟁자/대체재 대비 고유 가치 (Value Curve 고려)
-- *패션 맥락: Denim Heritage 감성, IP 유니버스 경험*
+- *패션 맥락: American Denim Heritage 감성, 헤리티지 아카이브 재해석 경험*
 
 **5. 트레이드오프 (Trade-offs)**
 - 무엇을 하지 않을 것인가?
@@ -98,13 +98,13 @@ BMC와 Lean Canvas는 전략과 비즈니스 모델을 하나의 프레임으로
 **8. 역량 (Capabilities)**
 - 획득해야 할 역량과 자원은?
 - 자체 구축 vs 파트너십?
-- *패션 맥락: 디자인 역량, 생산 인프라, IP 관리, 글로벌 오퍼레이션*
+- *패션 맥락: 디자인 역량, 생산 인프라, 헤리티지 아카이브 관리 (HD Lee Company 라이선스), 글로벌 오퍼레이션*
 
 **9. Can't/Won't**
 - 왜 경쟁자가 이 전략을 복제할 수 없다고/하지 않을 것이라고 생각하는가?
 - 전체 전략이 복제하기 어려워야 함 — 단일 요소가 아닌 통합된 전체
 - 모든 요소가 서로 맞물리고 강화하는가?
-- *패션 맥락: IP 유니버스 + Kitsch 감성 + Denim Heritage 오리지널리티의 통합 방어력*
+- *패션 맥락: 100년 헤리티지 아카이브 + SENSUOUS WORKWEAR 재해석 + American Denim 오리지널리티의 통합 방어력*
 
 ### Part 2: 비즈니스 모델 (Business Model)
 

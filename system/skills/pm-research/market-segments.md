@@ -45,9 +45,9 @@ source: pm-skills/pm-market-research/market-segments
 
 ### Step 1: 시장 탐색
 리의 전체 어드레서블 마켓을 파악합니다.
-- 국내 18~29세 패션 시장 규모
-- 키치/스트리트웨어 세그먼트 규모
-- 글로벌(K-패션) 시장 기회
+- 국내 18~29세 메인 타겟 + 29~45세 서브 타겟 패션 시장 규모
+- 데님/헤리티지 캐주얼 세그먼트 규모 (DENIM × TRENDY 사분면)
+- 글로벌 데님 헤리티지 시장 기회 (Levi's·Diesel·Polo·Lacoste·CK 대비)
 - 용품 카테고리 시장 규모
 
 ### Step 2: 세그먼트 기준 설정

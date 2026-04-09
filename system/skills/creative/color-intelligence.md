@@ -65,18 +65,19 @@ outputs:
 `visual-identity.json`에서 변하지 않는 브랜드 컬러 기반을 확인한다.
 
 ```
-브랜드 시그니처 (불변):
-  Primary:
-    ■ Signature Yellow  #FEF200  — 브랜드 아이덴티티
-    ■ Black             #000000  — 기본
-    ■ White             #FFFFFF  — 기본
-  Secondary:
-    ■ Sky Blue          #68A8DB  — 시즌 악센트
+브랜드 시그니처 (visual-identity.json 기준 / 불변):
+  Primary Reference:
+    ■ Navy    PANTONE 19-4111   — 기획서·라벨 반복 사용 (기본)
+    ■ Black   #000000           — 기본
+    ■ White   #FFFFFF           — 기본
+  Foundation Neutrals:
+    ■ Ivory / Cream / Stone Grey / Light Grey / Deep Grey — 리 고유 헤리티지 뉴트럴
 
 사용 원칙:
-  - Primary = 브랜드 아이덴티티 (Black + Signature Yellow)
-  - Secondary = 시즌 악센트
-  - 시그니처 컬러는 매 시즌 최소 1개 히어로 아이템에 반드시 적용
+  - Primary = 브랜드 아이덴티티 (Navy + Black + White)
+  - Heritage Neutrals = 리 특유의 SENSUOUS WORKWEAR 감성
+  - 매 시즌 최소 1개 히어로 아이템은 Lee 시그니처 컬러(Navy/Black/White) 기반
+  - 시즌 액센트·트렌드 컬러는 26SS PANTONE 팔레트 기준으로 확장
 ```
 
 ---
@@ -133,7 +134,7 @@ outputs:
 ```
 ┌─────────────────────────────────────────────┐
 │  CORE (4색) — 매 시즌 불변                    │
-│  ■ #FEF200  ■ #000000  ■ #FFFFFF  ■ #68A8DB │
+│  ■ Navy (PANTONE 19-4111)  ■ #000000  ■ #FFFFFF  ■ Ivory │
 ├─────────────────────────────────────────────┤
 │  SEASON MAIN (4~6색) — 시즌 메인 컬러         │
 │  ■ [색1]  ■ [색2]  ■ [색3]  ■ [색4]          │
@@ -156,7 +157,7 @@ outputs:
 | 축 | 기준 | 1점 | 10점 |
 |---|------|-----|------|
 | **Trend** | 트렌드 적합도 | 쇠퇴기 | PANTONE COTY/SNS 급상승 |
-| **Brand** | 리 DNA 매칭 | 컨셉 충돌 | Kitsch/Street/Vivid 완벽 |
+| **Brand** | 리 DNA 매칭 | 컨셉 충돌 | Heritage/Denim/Workwear/Sensuous 완벽 |
 | **Commercial** | 상업적 판매 가능성 | 니치/실험적 | 대중 선호, 판매 증명 |
 | **Whitespace** | 경쟁사 비사용 | 레드오션 컬러 | 차별화 가능 |
 
@@ -175,9 +176,9 @@ outputs:
 
 | 라인 | 컬러 성격 | Core 활용 | Season 활용 | Accent 활용 |
 |------|----------|----------|-----------|-----------|
-| **UNI** | 볼드, 비비드, 하이콘트라스트 | Yellow+Black 적극 | 비비드 시즌 컬러 | 네온/특수 컬러 |
-| **W** | 페미닌, 파스텔+포인트, 세련 | White+Sky Blue | 파스텔/뮤트 톤 | 유니크 포인트 |
-| **ACC** | 아이코닉, 캐릭터 시그니처 | Yellow+Black 핵심 | 캐릭터별 시그니처 | 한정판 컬러 |
+| **UNI** | 헤리티지 데님, 워크웨어 뉴트럴, 클린 베이직 | Indigo Navy + Black + White | 시즌 트렌드 블루/뉴트럴 | 액센트 포인트 (Pink Yarrow, Tile Blue) |
+| **W** | 감각적 세련, 풍성한 뉴트럴, 파스텔 포인트 | Ivory + Stone Grey + Navy | 파스텔/뮤트 톤 (26SS Pantone 기준) | Quince, Silver 등 유니크 포인트 |
+| **ACC** | 아이코닉 아카이브, 헤리티지 라벨 | Indigo Navy + Black 핵심 | Buddy Lee / 101 / Storm Rider 라벨 컬러 | 한정판 컬러 |
 
 #### BTA × 컬러 매핑
 
@@ -185,7 +186,7 @@ outputs:
 |-----|----------|----------|-------------|
 | **Basic** | 안전 컬러 — 블랙, 화이트, 그레이, 네이비 | Neutral + Core | 높음 (정기 리오더) |
 | **Trend** | 시즌 컬러 — 트렌드 반영, 상업성 증명 | Season Main | 중간 (히트 시 리오더) |
-| **Accent** | 실험 컬러 — 차별화, 화제성, IP 특별판 | Accent | 낮음 (한정 생산) |
+| **Accent** | 실험 컬러 — 차별화, 화제성, 헤리티지 아카이브 특별판 | Accent | 낮음 (한정 생산) |
 
 #### 카테고리별 컬러 배분 테이블
 
@@ -212,8 +213,8 @@ outputs:
 — 무드보드, 프레젠테이션, 바이어 미팅에서 활용
 
 ### 컬러 그룹별 스토리
-- **Core**: [리의 변하지 않는 정체성 — Yellow의 에너지, Black의 엣지]
-- **Season Main**: [이번 시즌 키워드와 연결 — 왜 이 컬러가 이 시즌인지]
+- **Core**: [리의 변하지 않는 정체성 — Indigo Navy의 헤리티지, Raw Denim의 오리지널리티, 클린 화이트의 워크웨어 감성]
+- **Season Main**: [이번 시즌 키워드와 연결 — 26SS PANTONE 기반 채도 더해진 풍성한 뉴트럴, 쿨한 파스텔, 그레이 톤 확장]
 - **Accent**: [차별화 포인트 — 왜 이 컬러가 실험적 가치가 있는지]
 - **Neutral**: [스타일링 기반 — 메인 컬러를 돋보이게 하는 역할]
 ```
@@ -287,7 +288,7 @@ outputs:
 - [ ] 시그니처 컬러가 최소 1개 히어로 아이템에 적용 보장?
 - [ ] 트렌드 컬러에 데이터 기반 근거(PANTONE/SNS/런웨이)?
 - [ ] 경쟁사 공백 컬러에서 차별화 기회 도출?
-- [ ] UNI(비비드)와 W(파스텔) 감성 차이 반영?
+- [ ] UNI(헤리티지 데님·뉴트럴)와 W(감각적 뉴트럴·파스텔 포인트) 감성 차이 반영?
 - [ ] BTA 컬러 배분이 bta-guideline.md와 정합?
 - [ ] Basic 컬러는 리오더 용이한 안전 컬러?
 - [ ] Accent 컬러는 브랜드 DNA와 매칭되는 실험 컬러?

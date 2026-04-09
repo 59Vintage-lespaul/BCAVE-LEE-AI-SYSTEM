@@ -55,12 +55,12 @@ source: pm-skills/pm-product-strategy/product-strategy
 - 시장은 사람들의 문제(인구통계가 아닌)로 정의
 - JTBD, 원하는 결과, 제약 조건
 - 첫 번째 세그먼트는? 왜?
-- *리 맥락: UNI(유니섹스) — "개성을 표현할 유니크한 스트리트웨어" / WOMAN — "감성적이면서 트렌디한 데일리룩"*
+- *리 맥락: UNI(유니섹스) — "헤리티지 데님을 오늘의 워크웨어로 입고 싶은 20대" / WOMAN — "시그니처/K-Fashion/American Teenager 기반 감각적 데일리룩"*
 
 ### Section 3: 상대적 비용 (Relative Costs)
 - 저비용 최적화 vs 고유 가치 강조?
 - 경쟁사 대비 비용 포지션?
-- *리 맥락: 고유 가치(IP 유니버스, Kitsch 감성) 강조 전략, 단 QR을 통한 비용 효율성 동시 추구*
+- *리 맥락: 고유 가치(100년 헤리티지 아카이브, SENSUOUS WORKWEAR 재해석) 강조 전략, 26SS 원가율 21.5% 목표 기반 QR 효율성 동시 추구*
 
 ### Section 4: 가치 제안 (Value Proposition)
 각 타겟 세그먼트별:
@@ -68,7 +68,7 @@ source: pm-skills/pm-product-strategy/product-strategy
 - **How**: 상품이 솔루션을 전달하는 방식
 - **What after**: 개선된 결과, 미래 상태
 - **Alternatives**: 현재 고객이 사용하는 대안
-- *리 맥락: IP 캐릭터가 있는 스토리텔링 패션, Denim Heritage 감성, Denim Heritage 오리지널리티*
+- *리 맥락: 헤리티지 아카이브가 살아있는 스토리텔링 패션, American Denim Heritage 감성, 100년 워크웨어 오리지널리티*
 
 ### Section 5: 트레이드오프 (Trade-offs)
 - 무엇을 하지 않을 것인가?

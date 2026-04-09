@@ -27,12 +27,12 @@ source: pm-skills/pm-marketing-growth/product-name
 ## 언제 사용
 - 새로운 컬렉션/라인/아이템 이름이 필요할 때
 - 콜라보레이션 프로젝트의 네이밍을 결정할 때
-- IP 캐릭터(Buddy Lee 등)를 활용한 상품명을 개발할 때
+- 헤리티지 아카이브(Buddy Lee, Lee 101, Storm Rider 등)를 활용한 상품명을 개발할 때
 - PDCA Plan 단계에서 라인시트 작성 전 네이밍을 확정할 때
 
 ## FPOF 컨텍스트
 - 이 스킬은 리 브랜드의 상품/컬렉션/라인 네이밍에 활용합니다
-- 관련 프리셋: `tone-manner.json`(톤앤매너, 브랜드 어휘), `brand.config.json`(DNA, 비전, 포지셔닝), `ip-bible.json`(Buddy Lee+11 캐릭터)
+- 관련 프리셋: `tone-manner.json`(톤앤매너, 브랜드 어휘), `brand.config.json`(DNA, 비전, 포지셔닝), `ip-bible.json`(Buddy Lee + 헤리티지 아카이브 5종)
 - 브랜드 DNA "American Denim Heritage (워크웨어 재해석)"에 부합하는 위트 있고 기억에 남는 네이밍이 필요합니다
 - 코어 타겟(18~29세)이 공유하고 싶어하는 이름, 글로벌 확장 시 발음/의미 충돌이 없는 이름을 지향합니다
 
@@ -40,7 +40,7 @@ source: pm-skills/pm-marketing-growth/product-name
 1. `.fpof-state.json` → 현재 시즌 확인
 2. `tone-manner.json` → 브랜드 톤앤매너, 브랜드 어휘/금지 어휘 참조
 3. `brand.config.json` → 브랜드 DNA, 비전, 포지셔닝 참조
-4. `ip-bible.json` → IP 캐릭터 이름, 세계관, 그룹(A/B/C) 참조
+4. `ip-bible.json` → 헤리티지 아카이브 (Buddy Lee, Lee 101, Storm Rider, Lazy-S, Union-Alls) 참조
 5. 기존 상품명 체계 및 네이밍 히스토리 확인
 
 ## 실행 절차
@@ -56,9 +56,9 @@ source: pm-skills/pm-marketing-growth/product-name
 ### Step 2: 브랜드 필터 적용
 리 브랜드 가이드라인을 적용합니다.
 - `tone-manner.json`의 브랜드 어휘/금지 어휘 확인
-- Kitsch, Street, Heritage Archive 키워드와의 연결
-- 뮤즈(지젤) 이미지와의 부합성
-- Denim Heritage 감성과 글로벌 적합성 균형
+- Heritage, Workwear, Denim, SENSUOUS 키워드와의 연결
+- 뮤즈(NCT 재민 / 노윤서) 이미지와의 부합성
+- American Denim Heritage 감성과 글로벌 적합성 균형
 
 ### Step 3: 네이밍 브레인스토밍
 5개의 후보 이름을 개발합니다.
@@ -70,17 +70,17 @@ source: pm-skills/pm-marketing-growth/product-name
 4. **Memorability**: 왜 이 이름이 기억에 남고, 차별화되는지
 5. **글로벌 체크**: 주요 타겟 시장(한/영/중/일)에서의 발음, 의미, 상표 고려사항
 
-### Step 4: IP 캐릭터 활용 검토
-IP 활용이 적합한 경우를 판단합니다.
-- Buddy Lee 및 11개 캐릭터의 이름/특성 활용 가능성
-- 캐릭터 그룹(A/B/C)별 적합 상품 카테고리
-- 캐릭터 관계도를 활용한 스토리텔링 네이밍
-- IP 활용 시 저작권/상표 고려사항
+### Step 4: 헤리티지 아카이브 활용 검토
+리의 아카이브 자산 활용이 적합한지 판단합니다.
+- Buddy Lee(1920), Lee 101(1926), Lazy-S(1946), Union-Alls(1913), Storm Rider(1954) 등 아카이브 모티프 활용 가능성
+- 그룹별(A: 시그니처 로고물 / B: 헤리티지 그래픽 / C: 시즈널 트렌디) 적합 상품 카테고리
+- 아카이브 스토리텔링을 활용한 네이밍 (예: 1889 Since, Kansas City 지명 활용)
+- HD Lee Company(라이선서) 상표 가이드라인 및 로고 변형 금지 원칙 준수
 
 ### Step 5: 네이밍 평가 및 최종 선정
 후보 이름을 평가 기준에 따라 비교합니다.
 - 발음 용이성 및 철자 편의성
-- 브랜드 톤(Kitsch/Street)과의 정합성
+- 브랜드 톤(SENSUOUS WORKWEAR / Heritage)과의 정합성
 - 경쟁사 이름과의 차별화
 - 코어 타겟(18~29세)의 감성 소구력
 - 글로벌 시장 적합성 (발음/의미 충돌 없음)
@@ -126,7 +126,7 @@ IP 활용이 적합한 경우를 판단합니다.
 ## 최종 권고
 - 추천 이름:
 - 선정 이유:
-- IP 활용 제안:
+- 헤리티지 아카이브 활용 제안:
 ```
 
 ## 완료 조건
@@ -142,4 +142,4 @@ IP 활용이 적합한 경우를 판단합니다.
 - [ ] 코어 타겟(18~29세)이 공유하고 싶은 이름인가?
 - [ ] 기존 상품명 체계와 일관성이 있는가?
 - [ ] 글로벌 주요 시장에서 부정적 의미가 없는가?
-- [ ] IP 캐릭터 활용 시 ip-bible.json과 정합성이 있는가?
+- [ ] 헤리티지 아카이브 활용 시 ip-bible.json과 정합성이 있는가?

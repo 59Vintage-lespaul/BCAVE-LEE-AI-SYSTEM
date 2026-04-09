@@ -44,7 +44,7 @@ source: pm-skills/pm-product-discovery/brainstorm-experiments-new
 
 **XYZ 가설** (Alberto Savoia, *The Right It*): "최소 X%의 Y가 Z를 할 것이다" 형태로 가설을 수립합니다.
 - **X%**: 참여할 것으로 예상되는 타겟 시장 비율
-- **Y**: 특정 타겟 시장 (예: "18~29세 키치 스타일 선호 여성")
+- **Y**: 특정 타겟 시장 (예: "18~29세 헤리티지 데님 선호 여성")
 - **Z**: 상품/서비스와 어떻게 참여할 것인가
 
 **핵심 원칙** (Alberto Savoia, *The Right It*):

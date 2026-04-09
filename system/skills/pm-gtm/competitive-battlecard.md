@@ -86,7 +86,7 @@ source: pm-skills/pm-go-to-market/competitive-battlecard
 |-------------------|-----------|
 | "경쟁사 X가 [특징]이 있는데" | "[우리의 대안적 접근과 왜 더 나은지]" |
 | "경쟁사가 더 저렴해" | "[총 소유 비용, ROI, 숨은 비용 프레이밍]" |
-| "경쟁사가 더 유명해" | "[우리 장점: 트렌드, 혁신, IP 유니버스]" |
+| "경쟁사가 더 유명해" | "[우리 장점: 100년 헤리티지 아카이브, SENSUOUS WORKWEAR 재해석, indigood™ ESG]" |
 
 #### 심을 지뢰 (Landmines to Plant)
 경쟁사 약점을 부각시키는 질문:

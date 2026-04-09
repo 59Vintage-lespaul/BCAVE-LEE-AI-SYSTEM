@@ -33,7 +33,7 @@ outputs:
 
 이 스킬은 사용자가 아래와 같이 요청할 때 작동한다:
 - "도파민 드레싱 이미지 수집해줘"
-- "핀터레스트에서 키치 패션 검색해줘"
+- "핀터레스트에서 빈티지 데님 패션 검색해줘"
 - "볼꾸 레퍼런스 30장 모아줘"
 - "이거랑 비슷한 이미지 찾아줘" (이미지 첨부)
 - "수집한 이미지 AI 필터링 돌려줘"
@@ -71,7 +71,7 @@ outputs:
 - `lookbook`, `outfit`, `street snap` → 착장컷
 - `editorial`, `campaign` → 화보/광고컷
 - `2025`, `2026` → 최신 트렌드
-- `colorful`, `bold`, `vivid` → 리 무드 매칭
+- `denim`, `workwear`, `heritage`, `americana`, `vintage` → 리 무드 매칭
 
 **피해야 할 패턴:**
 - 브랜드명 단독 (`Celine shoes`) → 상품 판매 페이지만 나옴
@@ -256,9 +256,9 @@ python3 crawler.py --category brand_mood --headless 2>&1
 사용 가능한 카테고리:
 | 카테고리 | 설명 |
 |----------|------|
-| `brand_mood` | 키치 스트릿 전반 무드 |
-| `character_ip` | 캐릭터·그래픽·IP 감성 |
-| `color_vivid` | 비비드 컬러 트렌드 |
+| `brand_mood` | SENSUOUS WORKWEAR 헤리티지 데님 전반 무드 |
+| `heritage_archive` | Buddy Lee·101·Storm Rider·Union-Alls 아카이브 재해석 |
+| `color_denim` | 데님 블루·뉴트럴·26SS 시즌 컬러 트렌드 |
 | `target_styling` | 18~29세 코어타겟 스타일링 |
 | `campaign_ref` | 캠페인·룩북 레퍼런스 |
 | `accessories` | 용품·악세서리 |

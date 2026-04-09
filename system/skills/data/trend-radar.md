@@ -87,7 +87,7 @@ outputs:
       "options": [
         {"label": "전체 스캔", "description": "시즌 기획용 — 모든 카테고리, 모든 소스 종합"},
         {"label": "카테고리 포커스", "description": "특정 카테고리(상의/아우터/용품 등)에 집중"},
-        {"label": "테마 포커스", "description": "특정 테마(Y2K/웰니스/키치 등)의 시그널만 추적"},
+        {"label": "테마 포커스", "description": "특정 테마(Y2K/웰니스/헤리티지 데님 등)의 시그널만 추적"},
         {"label": "경쟁 레이더", "description": "경쟁사 동향 중심 — 발매/랭킹/가격 변동"}
       ]
     },
@@ -225,9 +225,9 @@ outputs:
 | Pinterest 무드 | 기존 수집 이미지 분석 | 반복 등장 비주얼 요소 |
 
 **리 비주얼 필터** (`visual-identity.json` 기준):
-- 디자인 키워드 매칭: Doodle, Graffiti, Workwear Heritage, Bold Lines, Vivid Colors
-- 시그니처 컬러 연결성: #FEF200 (Yellow), Black, White, #68A8DB (Sky Blue)
-- IP 캐릭터 접목 가능성: KIKY, 릴리, 프렌즈 캐릭터와의 결합 여부
+- 디자인 키워드 매칭: Heritage, Workwear, Denim, Sensuous, Clean & Modern, Kansas City
+- 시그니처 컬러 연결성: Black (#000000), Navy (PANTONE 19-4111), White, Ivory, Stone Grey + 26SS 시즌 팔레트
+- 헤리티지 아카이브 접목 가능성: Buddy Lee, Lee 101, Storm Rider, Lazy-S, Union-Alls 재해석 여부
 
 **추출 결과 형태:**
 ```
@@ -235,7 +235,7 @@ outputs:
 - 유형: [컬러/실루엣/그래픽/소재]
 - 내용: [구체적 트렌드 설명]
 - 브랜드 적합도: [visual-identity.json 키워드 매칭 수]
-- IP 접목 가능성: [높음/중간/낮음]
+- 아카이브 접목 가능성: [높음/중간/낮음]
 ```
 
 ---
@@ -250,7 +250,7 @@ outputs:
 |---|------|-----|-----|------|
 | **Velocity (상승 속도)** | 시그널이 얼마나 빠르게 성장 중인가 | 정체/하락 | 완만한 상승 | 급격한 상승, 바이럴 폭발 |
 | **Volume (시장 규모)** | 시장에서 얼마나 큰 규모인가 | 니치, 소수 | 중간 규모 | 대중적, 매스마켓 침투 |
-| **Relevance (브랜드 적합도)** | 리 DNA와 얼마나 맞는가 | DNA 충돌 | 부분 적합 | 완벽 매칭 (Kitsch/IP/Street) |
+| **Relevance (브랜드 적합도)** | 리 DNA와 얼마나 맞는가 | DNA 충돌 | 부분 적합 | 완벽 매칭 (Heritage/Denim/Workwear/Sensuous) |
 | **Longevity (예상 수명)** | 이 트렌드가 얼마나 오래갈 것인가 | 1개월 미만 밈 | 1~2시즌 | 3시즌 이상 지속 |
 | **Whitespace (경쟁 공백)** | 경쟁사가 아직 선점하지 않은 영역인가 | 레드오션 | 일부 경쟁 | 블루오션, 선점 기회 |
 

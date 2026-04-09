@@ -56,7 +56,7 @@ source: pm-skills/pm-product-strategy/lean-canvas
 - Top 3 기능 또는 접근 방식
 - 각 기능이 문제를 어떻게 해결하는지
 - 왜 이 솔루션이 새롭거나 더 나은지
-- *패션 맥락: 리의 독자적 해결 방안 (IP 유니버스, Kitsch 감성 등)*
+- *패션 맥락: 리의 독자적 해결 방안 (100년 헤리티지 아카이브 재해석, SENSUOUS WORKWEAR, indigood™ 친환경 공법 등)*
 
 **3. 고유 가치 제안 (Unique Value Proposition)**
 - 간결하고 기억에 남는 한 문장

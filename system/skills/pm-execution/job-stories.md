@@ -60,7 +60,7 @@ source: pm-skills/pm-execution/job-stories
 
 ### Step 8: 리 적용 필터링
 - 상황이 `personas.json`의 페르소나 행동 패턴과 일치하는지 확인
-- 동기가 리 브랜드 경험(키치 스트릿, IP 유니버스)과 정합하는지 확인
+- 동기가 리 브랜드 경험(SENSUOUS WORKWEAR, 헤리티지 아카이브, American Denim Heritage)과 정합하는지 확인
 - 결과가 5대 경영목표 중 하나에 기여하는지 점검
 
 ## 스토리 템플릿
@@ -84,7 +84,7 @@ source: pm-skills/pm-execution/job-stories
 ```markdown
 **제목:** 신상품 입고 알림 확인
 
-**설명:** When 내가 좋아하는 캐릭터(Buddy Lee) 콜라보 신상품이 나올 것 같을 때(상황),
+**설명:** When 내가 기다리던 Buddy Lee 아카이브 재해석 신상품이 나올 것 같을 때(상황),
 빠르게 입고 알림을 설정하고 싶어서(동기),
 품절 전에 확실하게 구매할 수 있다(결과).
 

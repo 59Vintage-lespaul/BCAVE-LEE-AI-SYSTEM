@@ -105,9 +105,9 @@ outputs:
       "header": "스타일",
       "multiSelect": false,
       "options": [
-        {"label": "스트릿 무드", "description": "도심 배경, 자연광, 움직임 포즈"},
-        {"label": "스튜디오 클린", "description": "화이트/그레이 배경, 제품 중심"},
-        {"label": "키치 맥시멀", "description": "비비드 배경, 그래피티, IP 캐릭터"},
+        {"label": "워크웨어 무드", "description": "빈티지 작업장/데님 스튜디오 배경, 자연광, 일상적 포즈"},
+        {"label": "스튜디오 클린", "description": "화이트/그레이 또는 레드/네이비 배경, 제품 중심"},
+        {"label": "헤리티지 아메리카나", "description": "빈티지 다이너/로드 배경, 따뜻한 레트로, 아카이브 라벨 활용"},
         {"label": "시즌 테마 맞춤", "description": "현재 시즌 컨셉에 맞춤"}
       ]
     },
@@ -154,9 +154,9 @@ outputs:
 
 | 컷 | 용도 | 사이즈 | 배경 | 요구사항 |
 |----|------|--------|------|----------|
-| 피드 — 무드 | 브랜드 감성 | 1080×1080px | 스트릿/무드 | 리 비주얼 톤 |
+| 피드 — 무드 | 브랜드 감성 | 1080×1080px | 워크웨어/헤리티지 | 리 비주얼 톤 |
 | 피드 — 상품 | 신상 소개 | 1080×1350px | 클린/무드 | 상품 중심, 카피 오버레이 |
-| 스토리 | 인터랙티브 | 1080×1920px | 비비드 | CTA 영역, 스와이프업 |
+| 스토리 | 인터랙티브 | 1080×1920px | 아카이브 컬러 | CTA 영역, 스와이프업 |
 | 릴스 커버 | 영상 썸네일 | 1080×1920px | 임팩트 | 텍스트 크게, 5초 내 주목 |
 
 #### 룩북 규격
@@ -176,29 +176,32 @@ outputs:
 #### 브랜드 비주얼 기본값
 
 ```
-컬러 팔레트:
-  - 주조: Black + Signature Yellow (#FEF200)
-  - 보조: Sky Blue (#68A8DB) + White
-  - 시즌 악센트: [trend-radar 또는 color-intelligence 결과 참조]
+컬러 팔레트 (visual-identity.json 기준):
+  - 주조: Black (#000000) + Navy (PANTONE 19-4111)
+  - 보조: White + Ivory + Stone Grey
+  - 시즌 악센트 (26SS 예): Pink Yarrow, Quince, Tile Blue, Silver
+  - 시즌 메인: [trend-radar 또는 color-intelligence 결과 참조]
 
 그래픽 스타일:
-  - Bold outline + flat color fill
-  - Doodle / Graffiti aesthetic
-  - IP 캐릭터: KIKY, 릴리 — 필요 시 ip-bible.json 참조
+  - 트위치/빈티지/하우스/유니온 로고 시스템 활용
+  - 헤리티지 아카이브 재해석 (아치·원형·타이포 콜라주)
+  - 상징 자산: Buddy Lee, Lee 101, Storm Rider, Lazy-S, Union-Alls — 필요 시 ip-bible.json 참조
+  - 금지: 로고 형태 변형, 과도한 정밀 묘사, 카툰·귀여운 그래픽, 구시대적/올드 아트웍
 
-포토 디렉션:
-  - Street context, 자연광
-  - 움직임이 있는 포즈
-  - 레이아웃: asymmetric, bold-crop, text-overlay-ok
+포토 디렉션 (visual-identity.json photo_direction):
+  - 레드 배경 + 베레모·데님 룩 시리즈 (Denim 스튜디오)
+  - 네이비 배경 + Casual 라이프스타일
+  - 자연광 혼합, 감각적 워크웨어 무드
+  - 레이아웃: 깔끔/심플, 가독성 높은 BI 활용
 ```
 
 #### 스타일별 디렉션 프리셋
 
 | 스타일 | 배경 | 조명 | 포즈 | 컬러 톤 |
 |--------|------|------|------|---------|
-| **스트릿 무드** | 도심 골목, 스케이트파크, 벽화 | 자연광, 골든아워 | 움직임, 캐주얼 | 하이콘트라스트, 비비드 |
-| **스튜디오 클린** | 화이트/라이트그레이 무지 | 소프트박스, 균일광 | 정면/측면 정적 | 뉴트럴, 상품색 그대로 |
-| **키치 맥시멀** | 네온 컬러 월, 그래피티 벽 | 네온/컬러 조명 | 과장된, 펑키 | 과포화, 팝아트 |
+| **워크웨어 무드** | 빈티지 작업장, 로프트, 데님 스튜디오 | 자연광, 골든아워 | 일상적 움직임 | 인디고/뉴트럴, 따뜻한 톤 |
+| **스튜디오 클린** | 화이트/라이트그레이 또는 레드/네이비 무지 | 소프트박스, 균일광 | 정면/측면 정적 | 뉴트럴, 상품색 그대로 |
+| **헤리티지 아메리카나** | 빈티지 다이너, 로드, Kansas City 감성 로케이션 | 따뜻한 텅스텐, 자연광 믹스 | 클래식, 상징적 | 세피아·빈티지 톤, 아카이브 컬러 |
 | **시즌 테마** | 시즌 무드보드 참조 | 테마 맞춤 | 테마 맞춤 | 시즌 팔레트 |
 
 ---
@@ -260,43 +263,46 @@ Aspect ratio 3:4 (860×1148px equivalent).
 #### 프롬프트 예시 — 인스타 무드컷
 
 ```
-A young Korean trendsetter wearing [아이템 상세 설명],
-walking through a colorful Seoul street with graffiti walls.
+A young Korean trendsetter in early 20s wearing [아이템 상세 설명],
+walking through a vintage loft or denim workshop in Seoul.
 Golden hour natural lighting, candid movement shot.
-Lee brand aesthetic: bold, vivid colors, kitsch street vibe.
-Pop art influenced composition with asymmetric framing.
-Shot on 35mm lens, slight motion blur for dynamic feel.
+Lee brand aesthetic: SENSUOUS WORKWEAR — heritage denim reinterpreted
+for today, clean and modern yet rooted in 100 years of American workwear.
+Clean, sophisticated composition.
+Shot on 35mm lens.
 Square format 1:1 (1080×1080px).
 ```
 
-#### 프롬프트 예시 — 키치 맥시멀
+#### 프롬프트 예시 — 헤리티지 아메리카나
 
 ```
-A confident Gen-Z model posing against a neon yellow (#FEF200) wall
-covered in doodle-style graffiti, wearing [아이템 상세 설명].
-Playful, exaggerated pose with bold attitude.
-Neon lighting mixing yellow and sky blue (#68A8DB).
-Maximalist pop art aesthetic, vivid saturated colors.
-Bold graphic overlays possible, text-overlay-friendly composition.
+A confident Korean model in early 20s wearing [아이템 상세 설명],
+posed against a red backdrop (Lee signature photo direction) or
+a vintage Kansas City diner setting.
+Classic, iconic pose with quiet confidence.
+Warm tungsten lighting mixed with natural light.
+Heritage Americana aesthetic — Buddy Lee era referenced,
+archive labels (101, Storm Rider, Union-Alls) subtly visible.
 Vertical format 9:16 (1080×1920px).
 ```
 
-#### IP 캐릭터 연동 프롬프트 (ip-bible.json 참조)
+#### 헤리티지 아카이브 연동 프롬프트 (ip-bible.json 참조)
 
 ```
 [기본 프롬프트] +
-Include a small doodle-style [KIKY/릴리] character illustration
-in the corner of the image, drawn in bold outline + flat color style.
-Character should complement the outfit, not overpower the product.
+Include subtle archive elements: Lee Twitch logo on garment,
+or Buddy Lee symbol / 101 label / Storm Rider tag visible as
+authentic heritage details. Never modify or distort logos.
+The archive reference should feel natural, not forced.
 ```
 
 **프롬프트 생성 규칙:**
 - 프롬프트는 영문으로 작성 (생성 AI 최적화)
-- 브랜드 키워드 5개 중 최소 2개 포함: Doodle, Graffiti, Workwear Heritage, Bold Lines, Vivid Colors
-- 시그니처 컬러 HEX 코드 명시 (#FEF200, #000000, #68A8DB)
-- 코어 타겟 반영: 모델 연령 20대 초반, Korean, 트렌디한 분위기
-- `photo_direction` 키워드 반영: Street context, 자연광, 움직임 포즈
-- 금지: 로고 형태 변형, 3B 착장 (bta-guideline.md 준수)
+- 브랜드 키워드 5개 중 최소 2개 포함: Heritage, Workwear, Denim, Sensuous, Kansas City, Archive
+- 시그니처 컬러: Navy (PANTONE 19-4111), Black (#000000), White (#FFFFFF), Ivory, Stone Grey
+- 코어 타겟 반영: 모델 연령 18~29세 (메인) / 29~45세 (서브), Korean, SENSUOUS WORKWEAR 분위기
+- `photo_direction` 키워드 반영: 레드/네이비 배경, Casual 라이프스타일, 자연광 혼합
+- 금지: 로고 형태 변형, 3B 착장 (bta-guideline.md 준수), 과도 정밀 묘사/카툰·귀여운 그래픽/올드 아트웍 (visual-identity.json graphic_not_to_do)
 
 ---
 
@@ -342,9 +348,9 @@ Character should complement the outfit, not overpower the product.
 ```
 
 #### 카피 톤 체크 (매번 확인):
-- [ ] 유쾌하고 자유분방한 톤?
-- [ ] Gen-Z 친화적 언어?
-- [ ] 브랜드 필수 어휘 포함? (리, KIKY 등)
+- [ ] 감각적이고 세련된 톤?
+- [ ] 트렌드세터 친화적 언어?
+- [ ] 브랜드 필수 어휘 포함? (Lee, 헤리티지, 데님, SENSUOUS WORKWEAR 등)
 - [ ] 금지 어휘 미사용? (저렴한, 짝퉁, 따라하기, 평범한)
 - [ ] 채널에 맞는 톤과 길이?
 
