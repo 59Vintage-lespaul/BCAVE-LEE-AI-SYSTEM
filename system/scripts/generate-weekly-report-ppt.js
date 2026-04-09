@@ -225,7 +225,7 @@ slide3.addText([
   x: 1, y: 3.5, w: 7.8, h: 0.25
 });
 
-slide3.addText("지젤 스포츠룩북 프로모션 (2/9~3/8)", {
+slide3.addText("노윤서 데님 룩북 프로모션 (2/9~3/8)", {
   x: 1, y: 4.1, w: 7.8, h: 0.2,
   fontSize: 13, fontFace: "Arial", bold: true,
   color: colors.black, align: "left"
@@ -381,7 +381,7 @@ slide5.addShape(pres.shapes.RECTANGLE, {
   border: { pt: 1, color: colors.gray }
 });
 
-slide5.addText("지젤 스포츠룩북 기획전 (2/9~2/25)", {
+slide5.addText("노윤서 데님 룩북 기획전 (2/9~2/25)", {
   x: 1, y: 3.2, w: 7.8, h: 0.2,
   fontSize: 12, fontFace: "Arial", bold: true,
   color: colors.black, align: "left"

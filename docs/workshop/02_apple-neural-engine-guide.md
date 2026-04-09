@@ -221,12 +221,12 @@ swiftc -O -o ane_tool ane_tool.swift
 
 ```bash
 # 언어 감지
-./ane_tool language "ワッキーウィリーの新しいコレクション"
+./ane_tool language "リーの新しいデニムコレクション"
 # 출력: {"language": "ja", "confidence": 0.99}
 
 # 개체명 인식 (NER) — 인명, 지명, 조직명 추출
-./ane_tool ner "리의 지젤이 서울 성수동 플래그십 스토어에서 팬사인회를 합니다"
-# 출력: {"entities": [{"text":"리","type":"Organization"}, {"text":"지젤","type":"Person"}, {"text":"성수동","type":"Place"}]}
+./ane_tool ner "리의 뮤즈 노윤서가 서울 명동 FSS 오픈 현장에서 팬사인회를 합니다"
+# 출력: {"entities": [{"text":"리","type":"Organization"}, {"text":"노윤서","type":"Person"}, {"text":"명동","type":"Place"}]}
 ```
 
 ### 실무 활용 시나리오

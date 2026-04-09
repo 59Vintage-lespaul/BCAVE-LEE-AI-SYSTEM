@@ -99,7 +99,7 @@ source: pm-skills/pm-execution/create-prd
 
 ### Step 5: 리 적용 필터링
 - 시장 세그먼트에 `personas.json`의 UNI/WOMAN 페르소나 반영
-- 가치 제안에 리의 American Denim Heritage (워크웨어 재해석) 컨셉 연결
+- 가치 제안에 리의 American Denim Heritage · SENSUOUS WORKWEAR 컨셉 연결
 - 출시 계획에 시즌 PDCA 사이클과의 타이밍 맞춤
 
 ## 산출물 포맷

@@ -441,7 +441,7 @@ AI 자동 분석 결과:
 
 | 요소 | 리 | 커버낫 | 리(Lee) |
 |------|---------|--------|--------|
-| **컨셉** | American Denim Heritage (워크웨어 재해석) | Classic American Casual | Heritage Denim |
+| **컨셉** | American Denim Heritage · SENSUOUS WORKWEAR | Classic American Casual | Heritage Denim |
 | **코어 타겟** | 18-25세 트렌드리더 | 20-30대 유니섹스 | 25-35세 프리미엄 캐주얼 |
 | **BTA 비중** | T/A 비중 높음 (실험적) | B 비중 높음 (안정) | B/T 균형 |
 | **AX 초점** | IP 활용, 트렌드 속도 | 리오더 최적화, 히트상품 관리 | 글로벌 데이터 연동 |

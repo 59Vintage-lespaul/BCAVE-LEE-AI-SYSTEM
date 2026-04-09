@@ -62,7 +62,7 @@ source: pm-skills/pm-product-strategy/lean-canvas
 - 간결하고 기억에 남는 한 문장
 - 고객이 대안 대신 우리를 선택하는 이유
 - 단순히 "더 낫다"가 아닌 "다르다"는 점
-- *패션 맥락: "American Denim Heritage (워크웨어 재해석)" 가치 제안*
+- *패션 맥락: "American Denim Heritage · SENSUOUS WORKWEAR" 가치 제안*
 
 **4. 경쟁 우위 (Unfair Advantage)**
 - 어떤 방어 가능성이 존재하는가?
@@ -119,7 +119,7 @@ source: pm-skills/pm-product-strategy/lean-canvas
 ### Step 5: 리 적용 필터링
 분석 결과를 리 브랜드 렌즈로 필터링합니다.
 
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))에 대한 시사점
 - 5대 경영목표와의 연결점
 - IP 캐릭터 활용 가능성

@@ -33,7 +33,7 @@ source: pm-skills/pm-marketing-growth/product-name
 ## FPOF 컨텍스트
 - 이 스킬은 리 브랜드의 상품/컬렉션/라인 네이밍에 활용합니다
 - 관련 프리셋: `tone-manner.json`(톤앤매너, 브랜드 어휘), `brand.config.json`(DNA, 비전, 포지셔닝), `ip-bible.json`(Buddy Lee + 헤리티지 아카이브 5종)
-- 브랜드 DNA "American Denim Heritage (워크웨어 재해석)"에 부합하는 위트 있고 기억에 남는 네이밍이 필요합니다
+- 브랜드 DNA "American Denim Heritage · SENSUOUS WORKWEAR"에 부합하는 위트 있고 기억에 남는 네이밍이 필요합니다
 - 코어 타겟(18~29세)이 공유하고 싶어하는 이름, 글로벌 확장 시 발음/의미 충돌이 없는 이름을 지향합니다
 
 ## 사전 준비

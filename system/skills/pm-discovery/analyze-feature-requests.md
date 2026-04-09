@@ -57,7 +57,7 @@ source: pm-skills/pm-product-discovery/analyze-feature-requests
 
 ### Step 3: 전략 정합성 평가
 각 테마가 명시된 목표와 얼마나 잘 맞는지 평가:
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석)) 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR) 정합성
 - 5대 경영목표 기여도
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) 니즈 부합
 
@@ -76,7 +76,7 @@ source: pm-skills/pm-product-discovery/analyze-feature-requests
 - 최소 노력으로 해당 가정을 테스트하는 방법
 
 ### Step 6: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) 요청의 비중 확인
 - 채널별(무신사, 자사몰, SNS) 요청 패턴 차이
 - IP 캐릭터 활용 관련 요청 하이라이트

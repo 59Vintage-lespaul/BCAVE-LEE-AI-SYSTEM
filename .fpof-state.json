@@ -1,0 +1,73 @@
+{
+  "framework": {
+    "name": "FPOF",
+    "version": "1.1.0",
+    "initialized_at": "2026-04-09T00:00:00Z"
+  },
+  "active_brand": "lee",
+  "active_brand_path": "system/presets/lee/",
+  "current_season": "26FW",
+  "pdca": {
+    "current_phase": "plan",
+    "cycle_count": 1,
+    "phases": {
+      "plan": {
+        "status": "not_started",
+        "completion_pct": 0,
+        "artifacts": []
+      },
+      "design": {
+        "status": "not_started",
+        "completion_pct": 0,
+        "artifacts": []
+      },
+      "do": {
+        "status": "not_started",
+        "completion_pct": 0,
+        "artifacts": []
+      },
+      "check": {
+        "status": "not_started",
+        "completion_pct": 0,
+        "artifacts": []
+      },
+      "act": {
+        "status": "not_started",
+        "completion_pct": 0,
+        "artifacts": []
+      }
+    },
+    "quality_gates": {
+      "QG1": { "status": "pending", "result": null },
+      "QG2": { "status": "pending", "result": null },
+      "QG3": { "status": "pending", "result": null },
+      "QG4": { "status": "pending", "result": null }
+    }
+  },
+  "projects": {},
+  "operational": {
+    "description": "PDCA와 독립적인 일상 운영 산출물 — 주간 리뷰, 회의록, 대시보드 등",
+    "weekly": {
+      "latest_week": null,
+      "data_weeks": [],
+      "weeks": {}
+    },
+    "dashboard": {
+      "refresh_cycle": "weekly",
+      "latest_data_week": null,
+      "artifacts": []
+    },
+    "season_strategy": {
+      "artifacts": []
+    }
+  },
+  "work_memory": {
+    "current_plan": null,
+    "context_notes": [
+      "2026-04-09: 리(LEE) FPOF 시스템 초기화 — Bcave/Lee 자료 기반으로 브랜드 프리셋 생성, 독립 프로젝트로 분리 운영"
+    ],
+    "todo": [],
+    "decisions_log": []
+  },
+  "history": []
+}

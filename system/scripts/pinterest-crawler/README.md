@@ -1,6 +1,6 @@
 # Pinterest Crawler — Lee Moodboard
 
-리 브랜드 무드(American Denim Heritage (워크웨어 재해석))에 맞는 핀터레스트 이미지를 수집하는 파이프라인.
+리 브랜드 무드(American Denim Heritage · SENSUOUS WORKWEAR)에 맞는 핀터레스트 이미지를 수집하는 파이프라인.
 
 ## 구조
 

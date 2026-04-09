@@ -99,7 +99,7 @@ source: pm-skills/pm-product-discovery/identify-assumptions-new
 각 가정에 대해 확신도(High/Medium/Low)를 평가하고 테스트 방법을 제안
 
 ### Step 4: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))의 글로벌 통용성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)의 글로벌 통용성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))의 현지 시장 존재 여부
 - 글로벌 데님 헤리티지 패밀리 브랜드 비전과의 정합성
 - 5대 경영목표 중 "글로벌 대응 강화"와의 직접 연결

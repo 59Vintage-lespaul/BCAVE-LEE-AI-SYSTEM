@@ -76,7 +76,7 @@ source: pm-skills/pm-product-discovery/brainstorm-experiments-new
 - **성공 기준**: 예상 임계값
 
 ### Step 4: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))에게 자연스러운 실험 채널인가?
 - IP 캐릭터를 활용한 프리토타입 기회
 - 글로벌 시장 검증에 활용 가능한가?

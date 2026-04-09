@@ -40,7 +40,7 @@ outputs:
 - 파리/밀라노/뉴욕/서울 컬렉션의 공통 키워드
 - 소재/실루엣/컬러의 시즌 흐름
 - 라이프스타일 트렌드 (음악, 아트, 서브컬처)
-- 분석 기준: 리의 American Denim Heritage (워크웨어 재해석) 컨셉과의 접점
+- 분석 기준: 리의 American Denim Heritage · SENSUOUS WORKWEAR 컨셉과의 접점
 
 ### Step 2: Micro Trend 수집
 SNS/TikTok에서 급부상하는 스타일, 밈, 해시태그를 추적한다.
@@ -88,7 +88,7 @@ SNS/TikTok에서 급부상하는 스타일, 밈, 해시태그를 추적한다.
 
 ### Step 5: 리 적용 필터링
 수집한 트렌드를 리 필터로 걸러낸다.
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와 충돌하지 않는가?
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와 충돌하지 않는가?
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))이 반응할 트렌드인가?
 - IP 캐릭터와 결합 가능한가?
 - 기존 카테고리(유니섹스/우먼스/용품)에서 구현 가능한가?

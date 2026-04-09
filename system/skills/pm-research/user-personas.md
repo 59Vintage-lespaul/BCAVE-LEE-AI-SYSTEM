@@ -95,7 +95,7 @@ personas.json의 현재 페르소나를 분석합니다.
 
 ### Step 5: 리 전략 연결
 페르소나 인사이트를 브랜드 전략에 연결합니다.
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 공명 포인트
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 공명 포인트
 - 5대 경영목표별 페르소나 시사점
 - 시즌 기획(라인시트, 무드보드)에 반영할 인사이트
 - 마케팅 채널/메시지 최적화 제안

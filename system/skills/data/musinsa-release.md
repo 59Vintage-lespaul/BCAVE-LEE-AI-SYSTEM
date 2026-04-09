@@ -165,7 +165,7 @@ BTA 프레임워크 기반으로 구체적인 적용 포인트를 제안한다:
 [Basic]  ← 재발매 요청이 많은 상품 유형 → 안정 매출 아이템 힌트
 ```
 
-제안은 리 DNA(American Denim Heritage (워크웨어 재해석)), 코어타겟(18~29세), 비전(Denim Heritage 기반 글로벌)을
+제안은 리 DNA(American Denim Heritage · SENSUOUS WORKWEAR), 코어타겟(18~29세), 비전(Denim Heritage 기반 글로벌)을
 기준으로 필터링하여 구체적으로 작성한다.
 
 ---

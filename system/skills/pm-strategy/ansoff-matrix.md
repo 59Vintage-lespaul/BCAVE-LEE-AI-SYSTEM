@@ -122,7 +122,7 @@ source: pm-skills/pm-product-strategy/ansoff-matrix
 ### Step 7: 리 적용 필터링
 분석 결과를 리 브랜드 렌즈로 필터링합니다.
 
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
   - 성장 전략이 브랜드 정체성을 희석시키지 않는가?
   - 헤리티지 아카이브(Buddy Lee / 101 / Storm Rider 등) 확장이 다각화 기회를 어떻게 지원하는가?
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))에 대한 시사점

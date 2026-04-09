@@ -111,7 +111,7 @@ source: pm-skills/pm-product-strategy/product-strategy
 ### Step 11: 리 적용 필터링
 분석 결과를 리 브랜드 렌즈로 필터링합니다.
 
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))에 대한 시사점
 - 5대 경영목표와의 연결점:
   - 브랜드 아이덴티티 정립 → Section 1(비전), 4(가치 제안)

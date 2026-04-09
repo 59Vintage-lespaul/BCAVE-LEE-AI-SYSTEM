@@ -56,7 +56,7 @@ source: pm-skills/pm-product-discovery/summarize-interview
 
 ### Step 4: 리 적용 필터링
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) 관점에서의 인사이트 태깅
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석)) 관련 언급 하이라이트
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR) 관련 언급 하이라이트
 - 채널(무신사, 자사몰 등) 관련 인사이트 분리
 - 5대 경영목표와 연결 가능한 인사이트 표시
 

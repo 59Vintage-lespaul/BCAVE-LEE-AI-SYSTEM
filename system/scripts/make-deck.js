@@ -831,8 +831,8 @@ const addSlideNum = (s, n) =>
     0.35, 3.92, 7, 0.82,
     { fontSize: 14, color: C.light });
 
-  // Slogan
-  txt(s, "\"규칙은 없어, 우리만의 놀이터로 초대할게!\"",
+  // Slogan (Lee North Star)
+  txt(s, "\"100년 전통의 미국 진즈웨어를 현재의 스타일로 재해석한다\"",
     0.35, 4.82, 7, 0.5,
     { fontSize: 12, color: C.mid, italic: true });
 

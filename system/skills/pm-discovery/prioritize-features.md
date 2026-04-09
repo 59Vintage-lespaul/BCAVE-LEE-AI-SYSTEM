@@ -73,7 +73,7 @@ source: pm-skills/pm-product-discovery/prioritize-features
 ### Step 4: 우선순위 테이블 제시
 
 ### Step 5: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성 가중치
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성 가중치
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) Impact 가중치
 - 5대 경영목표별 기여도 매핑
 - 채널별(자사몰, 무신사, 글로벌) 우선순위 차이

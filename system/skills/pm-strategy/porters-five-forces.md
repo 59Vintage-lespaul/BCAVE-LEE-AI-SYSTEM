@@ -145,7 +145,7 @@ source: pm-skills/pm-product-strategy/porters-five-forces
 ### Step 8: 리 적용 필터링
 분석 결과를 리 브랜드 렌즈로 필터링합니다.
 
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
   - IP 캐릭터 유니버스가 경쟁 세력에 미치는 방어 효과
   - Denim Heritage 포지셔닝의 차별화 수준
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브))에 대한 시사점

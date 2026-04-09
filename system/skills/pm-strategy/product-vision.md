@@ -32,7 +32,7 @@ source: pm-skills/pm-product-strategy/product-vision
 - 이 스킬은 리 브랜드의 비전 정교화 및 비전 스테이트먼트 개발에 활용합니다
 - 관련 프리셋: `brand.config.json`(DNA, 비전, 포지셔닝, 5대 경영목표, 로드맵)
 - 현재 비전: "2029 NO.1 Denim Heritage Family Brand" — 이를 출발점으로 활용합니다
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석)), 뮤즈(지젤), 코어 타겟(18~29세)을 반영합니다
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR), 뮤즈(NCT 재민 · 노윤서), 코어 타겟(메인 18~29세 / 서브 29~45세)을 반영합니다
 
 ## 도메인 컨텍스트
 비전은 "어떻게 사람들에게 영감을 줄 수 있는가? 무엇을 달성하고자 하는가? 어떤 가치를 지키는가?"에 답합니다. 비전은 전략과 함께 진화하며, 한 번의 작업이 아닌 살아있는 선언문입니다. 사람들이 단순히 이해하는 것이 아니라 무언가를 느끼게 해야 합니다.
@@ -48,7 +48,7 @@ source: pm-skills/pm-product-strategy/product-vision
 ### Step 1: 현재 비전 리뷰
 brand.config.json의 기존 비전을 분석합니다.
 - 현재 비전: "2029 NO.1 Denim Heritage Family Brand"
-- 브랜드 DNA: American Denim Heritage (워크웨어 재해석)
+- 브랜드 DNA: American Denim Heritage · SENSUOUS WORKWEAR
 - 5대 경영목표와 비전의 연결성
 - 로드맵 상 현재 위치와 비전의 거리
 

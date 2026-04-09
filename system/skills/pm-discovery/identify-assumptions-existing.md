@@ -73,7 +73,7 @@ source: pm-skills/pm-product-discovery/identify-assumptions-existing
 - 테스트 제안 방법
 
 ### Step 4: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성 리스크
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성 리스크
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) 가정의 타당성
 - 5대 경영목표와의 충돌 가능성
 - 채널별(자사몰, 무신사, 글로벌) 리스크 차이

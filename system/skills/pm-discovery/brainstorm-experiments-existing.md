@@ -74,7 +74,7 @@ source: pm-skills/pm-product-discovery/brainstorm-experiments-existing
 - **성공 기준 (Success Threshold)**: 올바른 경우 예상 값
 
 ### Step 5: 리 적용 필터링
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 정합성
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 정합성
 - 코어 타겟(18~29세 트렌드세터 (메인) + 29~45세 헤리티지 수요자 (서브)) 행동 패턴에 맞는 실험 방법인가?
 - 채널별(자사몰, 무신사 등) 특성을 반영한 실험인가?
 - 실험 결과가 시즌 의사결정에 활용 가능한가?

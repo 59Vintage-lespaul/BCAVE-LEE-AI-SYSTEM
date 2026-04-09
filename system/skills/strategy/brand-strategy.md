@@ -40,7 +40,7 @@ outputs:
 ### Step 1: 시즌 테마 도출
 트렌드 브리프의 추천 키워드를 리 세계관으로 번역한다.
 - 트렌드 키워드 → 리 고유 언어로 재해석
-- 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와의 연결점 찾기
+- 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와의 연결점 찾기
 - 시즌 테마 후보 2~3개 → 최종 1개 선정
 - 테마 네이밍: 리답게 위트 있는 이름
 
@@ -194,7 +194,7 @@ brand.config.json의 5대 경영목표 기준으로 SWOT 분석을 실행한다.
 - [ ] 경쟁사 5개 대비 포지셔닝 아이디어 5개 도출
 
 ## 체크리스트
-- [ ] 시즌 테마가 브랜드 DNA(American Denim Heritage (워크웨어 재해석))와 일관되는가?
+- [ ] 시즌 테마가 브랜드 DNA(American Denim Heritage · SENSUOUS WORKWEAR)와 일관되는가?
 - [ ] 20대 메인 타겟의 감성에 부합하는가?
 - [ ] 5대 경영목표 중 최소 2개와 명시적으로 연결되는가?
 - [ ] 지난 시즌 대비 새로운 점이 명확한가?
