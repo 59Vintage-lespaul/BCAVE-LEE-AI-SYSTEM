@@ -1,0 +1,123 @@
+{
+  "brand": {
+    "name": "Lee",
+    "name_kr": "리",
+    "slogan": "100년 전통의 미국 진즈웨어를 현재의 스타일로 재해석한다",
+    "tagline": "Lee가 가지고 있는 헤리티지한 요소는 유지하면서 현대적인 느낌을 더하여 재해석",
+    "licensor": "HD Lee Company (1889년 설립, Kansas City 소재, Kontoor Brands 산하)",
+    "korea_operator": "B.CAVE (비케이브)",
+    "korea_relaunch_year": 2021
+  },
+  "identity": {
+    "foundation": ["미국 (USA)", "워크웨어 (Workwear)", "데님 (Denim)", "역사 (History)"],
+    "characters": [
+      "교복화된",
+      "미국적인",
+      "트렌디한",
+      "자유로운",
+      "친근한",
+      "균형있는",
+      "가치있는",
+      "브랜드 로고(Logo Asset)"
+    ],
+    "principles": [
+      "Customer First (고객우선) — 고객 입장에서 생각하고 행동",
+      "Pride (자부심) — 브랜드에 대한 자부심",
+      "Transparency / ESG (투명성)",
+      "Ownership (주인의식) — 주인의식 있는 행동"
+    ],
+    "north_star": "100년 전통의 미국 진즈웨어를 현재의 스타일로 재해석한다",
+    "design_concept": "SENSUOUS WORKWEAR — Lee의 오리지날리티는 유지하면서 현재의 트렌드를 감각적으로 접목",
+    "core_values": ["Heritage", "Workwear", "Denim", "Craftsmanship", "Trend Reinterpretation"]
+  },
+  "vision": {
+    "statement": "데님 카테고리 리더십을 기반으로 프리미엄 정체성을 동시에 가진 NO.1 글로벌 데님 헤리티지 패밀리 브랜드",
+    "target_year": 2029,
+    "milestone": "NO.1 글로벌 데님 헤리티지 패밀리 브랜드 (Polo·Lacoste·CK 반열)"
+  },
+  "positioning": {
+    "axes": ["DENIM ↔ CASUAL", "CLASSIC ↔ TRENDY"],
+    "placement": "DENIM × TRENDY 사분면 — Diesel·Marithé François Girbaud 주변, Levi's(DENIM×CLASSIC) 대비 현대적",
+    "reference_peers_aspiration": ["Polo Ralph Lauren", "Lacoste", "Calvin Klein"],
+    "competitors_benchmark": ["Levi's", "Diesel", "Calvin Klein", "Guess", "A.P.C.", "Mod9", "Plac", "Marithé François Girbaud"],
+    "statement": "데님을 필두로 라이프스타일 경험 확장을 통해 글로벌 헤리티지 패밀리 브랜드로 포지셔닝 공고화 — 가격만 싼 브랜드가 아니라 프리미엄 정체성을 동시에 가진 글로벌 헤리티지 브랜드 지향"
+  },
+  "strategy_2026": {
+    "theme": "대세 브랜드 마케팅 / 상품 기반 IMC(네이밍-육성) / No.1 데님 스토리 집중",
+    "directions": [
+      {
+        "name": "타겟 스펙트럼 확장",
+        "from": "30~40대 여성 중심 구매 구조 (온/오프 모두 69% 비중)",
+        "to": "20대 유입 메인, 30대 전환 강화, 40대 이상 유지 — NCT 재민(남성 팬덤) + 노윤서(여성 확장)"
+      },
+      {
+        "name": "상품 구조 재편",
+        "from": "가성비 로고 캐주얼 이미지 (시그니처 로고물 의존)",
+        "to": "데님 코어 프리미엄 헤리티지 — 시그니처 SKU -3%p, 캐주얼 +2%p, 우먼 +2%p"
+      },
+      {
+        "name": "채널 수익성 개선",
+        "from": "백화점/아울렛 중심 82개 점포",
+        "to": "S·A급 유통(더현대서울 등) + FSS 매출 BEP 상향 — 82 → 88개"
+      },
+      {
+        "name": "소싱·CDQ 고도화",
+        "from": "25SS 마감 원가율 22.5%",
+        "to": "26SS 원가율 21.5%, 납기 90%+, 불량률 ≤0.3%"
+      }
+    ]
+  },
+  "business_goals_2026": [
+    {
+      "id": 1,
+      "name": "데님 코어 강화 및 포지셔닝 공고화",
+      "detail": "데님을 필두로 No.1 데님 스토리 집중, 브랜드 경험을 생활·문화로 확장",
+      "kpis": ["데님 카테고리 매출", "데님 히트 아이템 매출 기여도"]
+    },
+    {
+      "id": 2,
+      "name": "타겟 리밸런싱 (20대 신규 유입)",
+      "detail": "전 직원 브랜드 방향 이해 + 셀럽(NCT 재민 / 노윤서) 기반 20대 유입",
+      "kpis": ["20대 매출 비중", "신규 고객 유입율"]
+    },
+    {
+      "id": 3,
+      "name": "상품 기반 IMC 고도화",
+      "detail": "레거시·트렌디 매체 통합 IMC, 매장·온라인 터치포인트 강화, 네이밍-육성 접근",
+      "kpis": ["캠페인 ROAS", "상품 IMC 런칭-피크 정합도"]
+    },
+    {
+      "id": 4,
+      "name": "채널 수익성 및 FSS 정상화",
+      "detail": "S·A급 유통 확장 + FSS BEP 상향, 명동 FSS 오픈 준비",
+      "kpis": ["FSS 월 매출 BEP 달성", "S·A급 신규 매장 수", "직영점 매출 +62%"]
+    },
+    {
+      "id": 5,
+      "name": "소싱·생산 경쟁력 (CDQ)",
+      "detail": "원가율 21.5% 달성, 납기 안정화, 품질 리스크 최소화, 공급망 신뢰성 확대",
+      "kpis": ["원가율 21.5%", "납기 준수율 90%+", "불량률 ≤0.3%", "MOQ 유연화"]
+    }
+  ],
+  "sales_targets_2026": {
+    "total_revenue_2025_krw_mm": 81617,
+    "total_target_2026_krw_mm": 91181,
+    "growth_pct": 12,
+    "distribution_growth_pct": 11,
+    "retail_growth_pct": 6,
+    "online_growth_pct": 18,
+    "fss_growth_pct": 62
+  },
+  "roadmap": {
+    "2021": "Lee Korea 런칭 — 로고 상품 집중, 카테고리 킬러, 무신사 중심 온라인 확대",
+    "2022": "브랜드 파이프라인 확립 — 전 카테고리 트렌디 이미지 확립",
+    "2023": "여성 타겟팅 확장, 홍대 FSS 오픈, 여성 카테고리 확장·소싱력 강화",
+    "2024": "오프라인 채널 확대, 자사몰 효율 강화, 효율적 유통망 확장 (몰/아울렛)",
+    "2025": "제품 IMC 강화 — 상품·리테일 기반 맞춤 IMC 실행, 채널별 수익성 개선, 공간(SI) 경험",
+    "2026": "대세 브랜드 마케팅 — 상품 기반 IMC(네이밍-육성), No.1 데님 스토리 집중, 레거시·트렌디 매체 통합 IMC, 매장·온라인 터치포인트 강화, 명동 FSS 오픈",
+    "2027": "데님 본격 확장 / 데이터 고도화 — 히트 아이템 부스팅, 라인 세분화, 빅데이터·CRM 그로스 마케팅",
+    "2028": "라이프스타일 침투 — 브랜드 경험 확장(생활·문화), 글로벌 통합 캠페인, Top Tier 데님 캐주얼 브랜드 공고화",
+    "2029": "글로벌 옴니채널 확장 — 마케팅 콘텐츠 APAC 프로덕션·매니징 진출, 데님 코어 글로벌 헤리티지 패밀리 브랜드 포지셔닝"
+  },
+  "_source": "Bcave/Lee 9개 문서 (Brand Introduction, IP Guide, 브랜드 아키텍쳐 2026, 26SS·26FW·25SS·25FW 기획안)"
+}

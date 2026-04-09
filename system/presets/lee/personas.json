@@ -1,0 +1,88 @@
+{
+  "core_target": {
+    "main_target": {
+      "age_range": "18-29",
+      "definition": "옷에 관심이 많고 브랜드의 가치와 감성을 이해하는 10대 후반에서 20대 후반"
+    },
+    "sub_target": {
+      "age_range": "29-45",
+      "definition": "Lee가 가지고 있는 헤리티지를 느끼고 좋아하는 30대 초반에서 40대 초중반"
+    },
+    "overall_definition": "트렌드를 이해하되, 각자의 방식으로 균형 잡힌 선택을 하는 동시대 소비자",
+    "funnel_strategy": [
+      {
+        "age_range": "19-23",
+        "motivation": "팬덤 중심 유입 + 대세감",
+        "point": "아이돌 팬덤(NCT 재민) 기반 브랜드 인지 확대 → 20대 초반 신규 유입 풀 확보"
+      },
+      {
+        "age_range": "24-29",
+        "motivation": "스타일 완성도 + 디테일/패턴/핏 (TRENDY)",
+        "point": "데님 팬츠 중심 스타일 제안, 20대 여성 중심 + 남성 타겟 확장 (뮤즈: 노윤서)"
+      },
+      {
+        "age_range": "30-35",
+        "motivation": "품질 신뢰도 + 브랜드 헤리티지 + 근본 브랜드 수요",
+        "point": "품질·리텐션 커뮤니케이션"
+      },
+      {
+        "age_range": "36-45",
+        "motivation": "내구성/핏 (CLASSIC) + 충성도",
+        "point": "스타일링 중심, 기존 고객 유지"
+      }
+    ]
+  },
+  "muses_2026": [
+    {
+      "name": "NCT 재민",
+      "role": "Global Brand Ambassador",
+      "target_audience": "10대 후반 ~ 20대 초반 남성 + 팬덤",
+      "purpose": "아이돌 팬덤 기반 브랜드 인지 확대, 20대 초반 신규 유입 풀 확보"
+    },
+    {
+      "name": "노윤서",
+      "role": "Brand Muse (여성 데님 아이콘)",
+      "target_audience": "20대 여성 + 남성 타겟 확장",
+      "purpose": "데님 팬츠 중심 스타일 제안, 여성 인지도 강화"
+    }
+  ],
+  "personas": [
+    {
+      "id": "man",
+      "name": "트렌드를 알지만 검증된 선택을 선호하는 남성",
+      "age": 28,
+      "gender": "male",
+      "life_stage": "사회 초년생",
+      "hobbies": ["맛집·술집 투어", "온라인 커뮤니티·숏폼 소비", "소규모 친목 러닝"],
+      "preferred_brands": ["리바이스", "칼하트", "단톤", "랄프로렌"],
+      "purchase_trigger": "지인·패션 커뮤니티 입소문 → 무신사에서 핏·리뷰 확인",
+      "shopping_behavior": "오프라인 매장 착장 → 온·오프라인 병행 구매",
+      "content_preference": "TBD (자료에서 미확인)"
+    },
+    {
+      "id": "woman",
+      "name": "트렌드는 따르되 과하지 않은 균형을 찾는 여성",
+      "age": 24,
+      "gender": "female",
+      "life_stage": "사회 초년생",
+      "hobbies": ["카페 투어", "전시·팝업 방문", "라이프스타일 콘텐츠 소비"],
+      "preferred_brands": ["마리떼", "던스트", "빔즈보이", "유니클로U"],
+      "purchase_trigger": "SNS(IG/YT) 인플루언서 영향 → 29CM에서 핏·리뷰 확인",
+      "shopping_behavior": "오프라인 매장 착장 → 온라인 중심 구매",
+      "content_preference": "TBD (자료에서 미확인)"
+    }
+  ],
+  "current_customer_structure_2025": {
+    "gender_female_pct": 81,
+    "age_30_40s_pct": 69,
+    "source": "네이버 데이터랩, 2025년 1~11월 키워드 검색 인구",
+    "strategic_implication": "온·오프라인 모두 30~40대 여성이 구매 중심이나, 매출 구성은 UNI 비중이 온라인 78% · 오프라인 75%로 실제 고객 구조 대비 여성 상품군 비중이 낮은 불균형 구조 — 20대 메인 유입으로 고객 구조 재편 목표"
+  },
+  "sales_mix_by_line": {
+    "offline_uni_share_pct": 75,
+    "online_uni_share_pct": 78,
+    "women_share_pct": "TBD — 모수 적음, CRM 중요성 강조",
+    "source": "세일즈포스 + 자사몰 (외부몰 향후 업데이트)"
+  },
+  "target_rebalance_strategy": "20대 메인 유입 → 30대 소비 전환 강화 → 40대 이상 유지 단계적 설계. 여성 상품군 확대 및 20대 신규 유입으로 구조 재편"
+}

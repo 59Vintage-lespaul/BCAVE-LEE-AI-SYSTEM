@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "unit": "백만원, VAT-",
+    "source": "Lee_브랜드 아키텍쳐_종합_20260108(최종보고본).pptx p.10",
+    "base_year": 2025,
+    "target_year": 2026
+  },
+  "total": {
+    "revenue_2025_mm": 81617,
+    "target_2026_mm": 91181,
+    "growth_pct": 12,
+    "stores_2025": 82,
+    "stores_2026": 88
+  },
+  "channels": [
+    {
+      "id": "shop-in-shop",
+      "name": "샵인샵",
+      "type": "offline",
+      "sub_channels": [
+        {
+          "id": "department",
+          "name": "백화점",
+          "revenue_2025_mm": 24208,
+          "target_2026_mm": 25717,
+          "growth_pct": 6,
+          "stores_2025": 42,
+          "stores_2026": 43
+        },
+        {
+          "id": "outlet",
+          "name": "아울렛",
+          "revenue_2025_mm": 18178,
+          "target_2026_mm": 20329,
+          "growth_pct": 12,
+          "stores_2025": 23,
+          "stores_2026": 26
+        },
+        {
+          "id": "mall",
+          "name": "쇼핑몰",
+          "revenue_2025_mm": 5914,
+          "target_2026_mm": 7439,
+          "growth_pct": 26,
+          "stores_2025": 11,
+          "stores_2026": 13
+        }
+      ],
+      "total_revenue_2025_mm": 48300,
+      "total_target_2026_mm": 53485,
+      "growth_pct": 11,
+      "priority": "high-growth",
+      "strategy": "S·A급 유통 확장 최우선 (더현대서울 등) — 76 → 82개 점포"
+    },
+    {
+      "id": "retail",
+      "name": "리테일",
+      "type": "offline",
+      "sub_channels": [
+        {
+          "id": "fss",
+          "name": "직영점 (FSS)",
+          "revenue_2025_mm": 1504,
+          "target_2026_mm": 2437,
+          "growth_pct": 62,
+          "stores": 2,
+          "existing": ["홍대 FSS (2023 오픈)"],
+          "new_2026": ["명동 FSS (외국인 타겟)"],
+          "note": "FSS 매출을 BEP 수준으로 상향시키기 위한 운영 고도화 집중"
+        },
+        {
+          "id": "duty-free",
+          "name": "면세점",
+          "revenue_2025_mm": 11495,
+          "target_2026_mm": 11462,
+          "growth_pct": 0,
+          "stores": 4
+        },
+        {
+          "id": "consignment",
+          "name": "위탁사",
+          "revenue_2025_mm": 810,
+          "target_2026_mm": 740,
+          "growth_pct": -9
+        }
+      ],
+      "total_revenue_2025_mm": 13809,
+      "total_target_2026_mm": 14639,
+      "growth_pct": 6,
+      "priority": "FSS 정상화가 최우선"
+    },
+    {
+      "id": "online",
+      "name": "온라인",
+      "type": "online",
+      "sub_channels": [
+        {
+          "id": "external",
+          "name": "외부몰",
+          "revenue_2025_mm": 14395,
+          "target_2026_mm": 17458,
+          "growth_pct": 21,
+          "note": "무신사·29CM 중심 확대",
+          "key_platforms": ["무신사", "29CM", "W컨셉"]
+        },
+        {
+          "id": "own-mall",
+          "name": "자사몰",
+          "revenue_2025_mm": 5076,
+          "target_2026_mm": 5599,
+          "growth_pct": 10,
+          "url": "Lee 공식 홈페이지",
+          "focus": "CRM·개인화 고도화"
+        }
+      ],
+      "total_revenue_2025_mm": 19471,
+      "total_target_2026_mm": 23057,
+      "growth_pct": 18
+    },
+    {
+      "id": "global",
+      "name": "해외",
+      "type": "global",
+      "revenue_2025_mm": 0,
+      "target_2026_mm": 0,
+      "priority": "long-term",
+      "note": "2026년 현재 해외 직접 매출 없음. 명동 FSS 외국인 타겟 오픈이 교두보. Lee Japan 101주년 협업·IAB Studio·Engineered Garments 등 IMC 콜라보 중심",
+      "long_term_roadmap": {
+        "2027": "데이터 고도화 + 히트 부스팅",
+        "2028": "라이프스타일 침투 + 글로벌 통합 캠페인",
+        "2029": "APAC 프로덕션·매니징 진출 (데님 코어 글로벌 헤리티지 패밀리 브랜드)"
+      }
+    }
+  ],
+  "offline_stores_reference_2024_09": {
+    "total_count": "약 70처",
+    "anchor_stores": [
+      "홍대 플래그십 스토어 (키즈 복합운영)",
+      "신세계백화점 센텀시티점",
+      "스타필드 고양 (키즈 복합운영)",
+      "신세계백화점 대구점",
+      "롯데백화점 잠실점",
+      "타임스퀘어 영등포",
+      "현대백화점 대구 구장"
+    ],
+    "source": "Brand Introduction p.11 (2024.9 기준)"
+  },
+  "strategy_2026": {
+    "philosophy": "샵인샵 S·A급 유통 확장(+6처) + FSS BEP 정상화 + 온라인 +18% 성장 + 해외 교두보 확보",
+    "channel_priorities": [
+      "직영점 (FSS) — 62% 성장, 홍대+명동 BEP 정상화",
+      "쇼핑몰 — 26% 성장, 신규 S·A급 확장",
+      "외부몰 — 21% 성장, 무신사 중심",
+      "아울렛 — 12% 성장, +3처",
+      "자사몰 — 10% 성장, CRM 고도화"
+    ],
+    "qualitative_direction": "점포 수 증가보다 채널 질적 성장. 매장·온라인 터치포인트 통합 경험 강화"
+  },
+  "imc_integration": {
+    "philosophy": "상품 기반 IMC — 상품 네이밍 → 육성, 스토리텔링 중심",
+    "legacy_media": ["옥외광고", "TV·인쇄", "매장 공간 (SI)"],
+    "trendy_media": ["숏폼(TikTok/YouTube Shorts/Reels)", "인플루언서", "SNS(IG·YT)"],
+    "key_message_2026": "No.1 데님 스토리 집중",
+    "muses": ["NCT 재민 (팬덤 유입)", "노윤서 (여성·남성 확장)"]
+  }
+}

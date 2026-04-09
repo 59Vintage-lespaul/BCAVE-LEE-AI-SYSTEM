@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "description": "Lee의 고유 카테고리 운영 체계 — 브랜드 파이프라인 5종 (시그니처/캐주얼/헤리티지 × 유니섹스 + 우먼 + 악세서리)",
+    "source": "[Lee] 26SS 디자인,상품,소싱 기획안_250515(VSF).pdf p.70",
+    "season": "26SS"
+  },
+  "brand_pipeline_5_lines": [
+    {
+      "id": "uni_signature",
+      "name": "유니섹스 시그니처",
+      "parent": "unisex",
+      "positioning": "로고 활용한 기본 디자인 — 고객이 가장 쉽게 브랜드를 인지할 수 있는 핵심 상품군",
+      "sku_share_26ss_pct": 5,
+      "sku_yoy_pct": -3,
+      "production_share_26ss_pct": 18,
+      "production_yoy_pct": -9,
+      "direction_26ss": [
+        "시그니처 재정비 → 브랜드 신선도 상향",
+        "매출·원가 확보의 근간 (25년 매출 비중 30%) → 이익 직결",
+        "기존 시그니처 소재/컬러/BI 디벨롭 + 원가 절감",
+        "NEW 소재/컬러/핏은 시그니처에서 테스트"
+      ],
+      "hero_items": [
+        "빅 트위치 로고 스웻셔츠/티셔츠/볼캡",
+        "스몰 트위치 로고 베이식"
+      ],
+      "sub_categories": ["다이마루 (스웻·티)", "볼캡·모자", "기본 하의"]
+    },
+    {
+      "id": "uni_casual",
+      "name": "유니섹스 캐주얼",
+      "parent": "unisex",
+      "positioning": "Lee의 트렌디·친근함을 보여줄 수 있는 정규 시즌 컬렉션",
+      "sku_share_26ss_pct": 40,
+      "sku_yoy_pct": 2,
+      "production_share_26ss_pct": 47,
+      "production_yoy_pct": 11,
+      "direction_26ss": [
+        "정규 시즌 역량 집중 + 조닝 내 입지 공고화",
+        "소비자가 찾는 아이템 → 트렌디한 컬러/그래픽/디자인으로 차별화",
+        "Lee가 추구하는 현재의 스타일링",
+        "봄·여름 구성 변화, 시즌 초반 주력/디벨롭 강화"
+      ],
+      "sub_categories": {
+        "outer": ["자켓", "데님자켓", "윈드브레이커", "바시티 자켓", "워크 자켓"],
+        "tops": ["니트", "가디건", "후드집업", "후드", "맨투맨", "긴팔티셔츠", "반팔티셔츠", "반팔셔츠", "긴팔셔츠", "럭비티", "헨리넥"],
+        "bottoms": ["팬츠", "쇼츠", "데님", "데님쇼츠"]
+      }
+    },
+    {
+      "id": "uni_heritage",
+      "name": "유니섹스 헤리티지",
+      "parent": "unisex",
+      "positioning": "브랜드의 기초인 '데님·워크웨어·미국'을 표현하는 헤리티지 아이템",
+      "sku_share_26ss_pct": 2,
+      "sku_yoy_pct": 0,
+      "production_share_26ss_pct": 1,
+      "production_yoy_pct": -1,
+      "direction_26ss": "브랜드 코어 강화 — 지속적 노출 통한 Lee 헤리티지 각인",
+      "hero_items": [
+        "카우보이 셔츠",
+        "Union-Alls 오버롤",
+        "Storm Rider 로고 자켓",
+        "Lee Riders 라인",
+        "아카이브 그래픽 티셔츠"
+      ]
+    },
+    {
+      "id": "womens",
+      "name": "우먼",
+      "positioning": "유니섹스와 별개의 여성 타겟 독립적 정규 시즌 컬렉션",
+      "sku_share_26ss_pct": 27,
+      "sku_yoy_pct": 2,
+      "production_share_26ss_pct": 20,
+      "production_yoy_pct": 2,
+      "direction_26ss": "우먼 라인 강화 — 조직 분리 및 개별 아이템 단위에서 통합된 라인업으로 발전",
+      "sub_lines": [
+        {
+          "name": "Signature",
+          "focus": "트위치 로고·유니온 로고·티셔츠 등 기본 로고물 최우선 여성향 핏 재정립",
+          "key_items": ["로고 맨투맨", "니트", "티셔츠", "볼캡", "데님 아이템"]
+        },
+        {
+          "name": "K-Fashion Inspired",
+          "focus": "글로벌 트렌드를 주도하는 K-패션 시장 아이덴티티 — 한국 소비 트렌드·사계절 환경·시즌리스 미니멀리즘",
+          "key_items": ["소녀 간결·슬림감", "셔츠", "니트·벳 (동양 여체 구조 맞춤 핏)"]
+        },
+        {
+          "name": "American Teenager",
+          "focus": "Y2K 일렉틱 트렌드 일부 유지, 아메리칸 틴에이저 라인 확대",
+          "key_items": ["캐미솔 디테일", "플로럴 패턴 키치", "블루톤 레이스", "신축성 있는 소재"]
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "악세서리 / 용품",
+      "positioning": "가방·모자·시즌리스 악세서리 상품군",
+      "sku_share_26ss_pct": 25,
+      "sku_yoy_pct": -1,
+      "production_share_26ss_pct": 13,
+      "production_yoy_pct": -2,
+      "direction_26ss": [
+        "신규 캐리오버 발굴 (캐리오버 노후화 대응)",
+        "신학기 마켓 쉐어 확대 (1분기 매출 핵심)",
+        "핏 다변화 — 볼캡 (Basic Fit 54% / Trend Fit 44%)"
+      ],
+      "sub_categories": {
+        "bags": ["백팩 (신학기)", "데일리백", "크로스바디", "캔버스 토트", "하이브리드 더플", "하프문 백", "카고 포켓 숄더", "더플 백"],
+        "hats": ["볼캡", "버킷햇", "스웨터 버킷햇", "캠프캡"],
+        "shoes": ["슬라이드", "클로그", "레인부츠"],
+        "socks": ["골지·코튼 시스루 양말"],
+        "small_acc": ["키링(인형)", "에어팟 케이스", "미니 파우치", "헤어 액세서리 (데님)", "벨트 (레더·웨빙)"]
+      },
+      "groupings_25ss": {
+        "essentials_back_to_school": 26,
+        "cotton_denim": 46,
+        "women_seasonal": 10,
+        "light_synthetic": 17
+      }
+    }
+  ],
+  "bta_structure_26fw": {
+    "description": "BASIC · TREND · ACCENT 3단 라벨/트림 체계 (26FW 공식 도입)",
+    "basic_essential": {
+      "trim_label": "BASIC ESSENTIAL",
+      "description": "시즌 불변 베이직 — 초두 축소, 리오더 중심"
+    },
+    "trend": {
+      "trim_label": "TREND",
+      "description": "시즌 트렌드 반영 — 판매 검증 후 리오더 가능"
+    },
+    "accent_archive": {
+      "trim_label": "ACCENT ARCHIVE",
+      "description": "아카이브·한정 — SPOT 생산, 차별화 포인트"
+    }
+  },
+  "season_themes": {
+    "25SS": "TIMELESS WORKWEAR",
+    "26SS": "SENSUOUS WORKWEAR — Lee의 오리지날리티 유지 + 현재 트렌드 감각적 접목",
+    "26FW": "TBD — 26FW HQ 취합본은 라벨·그래픽 중심"
+  },
+  "hit_items_25ss_top10": [
+    { "rank": 1, "name": "릴랙스드핏 데님", "price_krw": 119000 },
+    { "rank": 2, "name": "스트레이트핏 데님", "price_krw": 109000 },
+    { "rank": 3, "name": "스트라이프 셔츠", "price_krw": 79000 },
+    { "rank": 4, "name": "로고 다잉 맨투맨", "price_krw": 89000 },
+    { "rank": 5, "name": "나일론 카고 팬츠", "price_krw": 99000 },
+    { "rank": 6, "name": "케이블 니트", "price_krw": 79000 },
+    { "rank": 7, "name": "로고 크롭 후드집업", "price_krw": 89000 },
+    { "rank": 8, "name": "썸머 셔츠", "price_krw": 79000 },
+    { "rank": 9, "name": "바시티 자켓", "price_krw": 149000 },
+    { "rank": 10, "name": "케이블 가디건", "price_krw": 99000 }
+  ],
+  "product_targets_26ss": {
+    "tag_total_krw_billion": 75.0,
+    "tag_by_line_krw_billion": {
+      "unisex": 50.0,
+      "womens": 15.0,
+      "accessories": 10.0
+    },
+    "target_revenue_krw_billion": 37.5,
+    "target_revenue_growth_yoy_pct": 10,
+    "sell_through_rate_pct": 61,
+    "discount_rate_pct": 21.5,
+    "revenue_share_by_line_pct": {
+      "unisex": 68,
+      "womens": 19,
+      "accessories": 13
+    }
+  },
+  "sales_history_by_line_krw_billion": {
+    "23SS": { "unisex": 14.8, "womens": 2.9, "accessories": 4.1 },
+    "24SS": { "unisex": 17.8, "womens": 6.3, "accessories": 6.4, "growth_yoy": { "unisex": 20, "womens": 118, "accessories": 56 } },
+    "25SS": { "unisex": 23.5, "womens": 8.1, "accessories": 9.1, "growth_yoy": { "unisex": 32, "womens": 29, "accessories": 41 } }
+  },
+  "price_range_reference": {
+    "unisex": "가격 레인지 가장 넓음 (저가 엔트리 ~ 프리미엄)",
+    "womens": "주력 카테고리(다운·가디건·데님) 중심 폭 넓은 레인지",
+    "accessories": "엔트리 가격대 비중 높아 접근성 용이",
+    "top10_avg_range_krw": "79,000 ~ 149,000"
+  },
+  "qr_reference_25ss": {
+    "qr_amount_krw_billion": 9.0,
+    "qr_rate_pct": 13,
+    "note": "26SS QR 목표 별도 미확인"
+  }
+}

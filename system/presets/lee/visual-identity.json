@@ -1,0 +1,128 @@
+{
+  "design_keywords": ["Heritage", "Workwear", "Denim", "Sensuous", "Clean & Modern", "Kansas City"],
+  "mood": "SENSUOUS WORKWEAR — Lee의 오리지날리티를 유지하면서 현재의 트렌드를 감각적으로 접목",
+  "color_palette": {
+    "note": "브랜드 고유 HEX는 자료에서 직접 확인되지 않음. 26SS 시즌 컬러는 PANTONE 단위로 확정됨.",
+    "primary_reference": {
+      "navy": "PANTONE 19-4111 (기획서 배경·라벨 반복 사용)",
+      "black": "#000000",
+      "white": "#FFFFFF"
+    },
+    "season_26ss_pantone": {
+      "_source": "[Lee] 26SS 디자인,상품,소싱 기획안_250515(VSF).pdf",
+      "basic": [
+        { "pantone": "19-0303", "name": "Black" },
+        { "pantone": "19-4111", "name": "Navy" },
+        { "pantone": "14-4104", "name": "Light Grey" },
+        { "pantone": "17-1501", "name": "Stone Grey" },
+        { "pantone": "18-0503", "name": "Deep Grey" },
+        { "pantone": null, "name": "Oatmeal" },
+        { "pantone": "11-0105", "name": "Cream" },
+        { "pantone": "11-4300", "name": "Ivory" },
+        { "pantone": "11-4001", "name": "White" }
+      ],
+      "trend_beige_chocolate": ["15-1217", "16-1108", "18-0939", "19-1317"],
+      "trend_pink_red": ["13-1408", "15-1523", "18-1643"],
+      "trend_lavender_purple": ["14-3803", "15-2205", "15-3909", "19-1716"],
+      "trend_lemon_green": ["12-0713", "12-0106", "16-6339", "18-0430", "18-0317"],
+      "trend_blue": ["13-4111", "14-4306", "16-4519", "16-4127", "19-4117"],
+      "accent": [
+        { "pantone": "18-2133", "name": "Pink Yarrow" },
+        { "pantone": "13-0753", "name": "Quince" },
+        { "pantone": "18-4735", "name": "Tile Blue" },
+        { "pantone": "14-5002", "name": "Silver" }
+      ]
+    },
+    "color_keyword_26ss": "미들톤 보완으로 컬러 밸런스 조정, 채도 더해진 풍성한 뉴트럴, 쿨한 파스텔톤 전개, 그레이 톤 확장, 화이트 섞인 파스텔 포인트 컬러, 모던하고 세련된 무드 강조"
+  },
+  "logo_system": {
+    "main_logo": {
+      "type": "Twitch Logo (트위치, 필기체)",
+      "description": "Lee 대표 로고",
+      "rules": [
+        "1번 표시 형태가 기본",
+        "자수 10cm 이하는 ® 제거, 프린트는 모두 ® 포함",
+        "3.4cm 프린트 작업 시 R이 큰 전용 로고 사용",
+        "R / MR / MS / USA / 누끼 / 박스 등 변형은 디자이너 재량, 변형 진행 시 컨펌 후 진행"
+      ]
+    },
+    "main_symbol": {
+      "type": "Buddy Lee Symbol",
+      "description": "1920년대 제작된 Lee 광고 캐릭터 인형 (전신 + 헤드 심볼)"
+    },
+    "first_sub": {
+      "type": "Vintage Logo (빈티지)",
+      "description": "Lee의 기본 빈티지 로고 형태, 총 6종",
+      "usage": "1번 주 사용, 이외는 디자이너 재량. 파일에 없는 로고 요청 시 직접 선 따서 사용 가능"
+    },
+    "second_sub_house": {
+      "type": "House 로고 (지붕 모양 외곽)",
+      "rules": [
+        "1, 2번 표시 형태가 기본",
+        "박스 분할·워딩 추가·디자인 변형 재량",
+        "워크웨어 관련 그래픽 제외 사용 지양 (카우보이·버디리 등 워크웨어 그래픽이 아닌 것과 병용 지양)",
+        "베이직 아이템 등은 사용 가능"
+      ],
+      "variants": [
+        "Lee Kansas City U.S.A",
+        "Lee House (솔리드 Navy)",
+        "Lee Work Clothes",
+        "Lee Trade Mark Reg. Established 1889",
+        "Premium Quality"
+      ]
+    },
+    "second_sub_new": {
+      "type": "신규 로고 (LEE KOREA 개발)",
+      "variants": [
+        { "name": "Vintage Logo", "description": "우먼 여성복 라인 주로 사용" },
+        { "name": "Union Logo", "description": "필기체, Union-Alls 계보" }
+      ]
+    },
+    "archive": [
+      { "name": "Vintage Logo Archive", "description": "Lee 아카이브성 빈티지 로고·심볼 5종" },
+      { "name": "101 Logo", "description": "Lee 101 (1926년 101Z 데님 유래, 대공황 시기 히트 모델)" },
+      { "name": "Buddy Lee", "description": "1920년대 HQ 오리지널 Buddy Lee 타이포 (1, 2번 사용)" },
+      { "name": "Storm Rider", "description": "Lee Storm Rider — Premium Quality & Smarter Fit, 카우보이/말 일러스트 동반" }
+    ]
+  },
+  "typography": {
+    "display": "Lee 트위치 로고체 (손그림 기반 Bold Italic)",
+    "vintage": "Bold serif/slab (빈티지 로고 6종)",
+    "archive_house": "Italic slab + 지붕 박스 프레임",
+    "note": "공식 Display/Body/Accent 폰트 지정 자료는 미확인 — TBD"
+  },
+  "graphic_style": {
+    "roadmap_26ss": {
+      "logo_BI": ["베이직 (트위치·빈티지·하우스·유니온·루프 로고 활용)", "기법 변형"],
+      "typo": ["로고 변형", "형태 변형 — 아치·원형·타이포 콜라주 등 (트위치·빈티지·하우스·유니온 로고 및 슬로건 믹스)"],
+      "artwork": ["아카이브 (Lee의 기존 아카이브 그래픽을 트렌드에 맞게 재해석)", "시즈널 & 트렌디 (소비자 니즈에 부합하는 시즌성 그래픽 개발)"]
+    },
+    "photo_direction": "레드 배경 + 베레모·데님 룩 시리즈 (Denim 스튜디오), 네이비 배경 + Casual 라이프스타일, 스트릿·자연광 혼합",
+    "signature_collaterals": [
+      "트위치 로고 T/스웨트",
+      "Buddy Lee 굿즈·인형",
+      "101 Lee 패치·라벨",
+      "Storm Rider 라벨",
+      "1889 Since 라벨"
+    ]
+  },
+  "graphic_to_do": [
+    "어패럴 및 용품에 적용 시 난해하지 않고 깔끔·심플한 그래픽 추구",
+    "전반적 컬러감이 매력적이며 세련되고 현대적인 컬러 조합 구현",
+    "메인 BI를 활용해 가독성 높은 브랜드 이미지 전개",
+    "성별에 관계없이 공감할 수 있는 모티브로 트렌디한 아트웍 제작"
+  ],
+  "graphic_not_to_do": [
+    "옷 위에 그림을 그린 것처럼 보이는 그래픽 배제, 과도한 정밀 묘사 지양",
+    "과하게 카툰 같거나 귀여운 그래픽 지양",
+    "칙칙하고 매력적이지 않은 컬러 구성 피할 것",
+    "구시대적이고 올드한 느낌의 아트웍 배제"
+  ],
+  "signature_items": [
+    "Lee 101 데님 (시그니처 — 1926년 101Z 라인 계승)",
+    "Lazy-S 스티치 데님 (1946년 선보인 Lee 아이코닉 디테일)",
+    "Buddy Lee 콜라보 굿즈",
+    "Storm Rider 데님 자켓",
+    "트위치 로고 스웻셔츠/가디건"
+  ]
+}

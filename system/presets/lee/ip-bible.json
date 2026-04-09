@@ -1,0 +1,172 @@
+{
+  "_note": "Lee의 IP = 캐릭터 세계관이 아니라 로고 하이어라키 + 헤리티지 아이콘 + 콜라보 아카이브 중심 구조.",
+  "universe": {
+    "name": "Lee Heritage Universe",
+    "tagline": "130년 전통의 미국 진즈웨어 — 1889년 H.D. Lee Company 설립 이래의 전통",
+    "slogan": "100년 전통의 미국 진즈웨어를 현재의 스타일로 재해석한다",
+    "atmosphere": ["Authentic American", "Workwear Legacy", "Denim Heritage", "Since 1889 Kansas City"],
+    "themes": [
+      "내구성·품질",
+      "미국적 개척 정신",
+      "노동자의 영웅 — Trail-on-Hell",
+      "록·저항 (James Dean 아이콘)",
+      "변신·재해석"
+    ]
+  },
+  "corporate": {
+    "founder": "H.D. Lee (Henry David Lee)",
+    "founded": 1889,
+    "birthplace": "Kansas City, U.S.A",
+    "parent_company_global": "Kontoor Brands (2019년 VF Corp에서 분사)",
+    "korea_operator": "B.CAVE (비케이브)",
+    "korea_relaunch_year": 2021
+  },
+  "logo_hierarchy": {
+    "main": [
+      { "name": "Twitch Logo", "description": "Lee 대표 필기체 로고" },
+      { "name": "Buddy Lee Symbol", "description": "1920년대 마스코트 캐릭터 (전신/헤드)" }
+    ],
+    "first_sub": [
+      { "name": "Vintage Logo", "description": "Lee 기본 빈티지 세리프 로고 6종" }
+    ],
+    "second_sub_house": [
+      { "name": "Lee House (Kansas City USA)" },
+      { "name": "Lee House (솔리드 Navy)" },
+      { "name": "Lee Work Clothes" },
+      { "name": "Lee Premium Quality / Trade Mark Reg. Est. 1889" }
+    ],
+    "second_sub_new": [
+      { "name": "Vintage Logo (LEE KOREA 신규)", "usage": "여성복 주로" },
+      { "name": "Union Logo (필기체)", "usage": "Union-Alls 계보" }
+    ],
+    "archive": [
+      { "name": "Vintage Logo Archive" },
+      { "name": "101 Logo" },
+      { "name": "Buddy Lee Typo" },
+      { "name": "Storm Rider Logo" }
+    ]
+  },
+  "heritage_icons": [
+    {
+      "id": "union-alls",
+      "name": "Union-Alls",
+      "year": 1913,
+      "type": "오버롤 (작업복 점프수트)",
+      "story": "Lee가 워크웨어 101 진 출시 이전 개발한 유니 스타일. 차를 수리하는 작업자의 모습에서 영감을 얻어 전신 보호 오버롤로 디자인. 즉각적 인기로 Lee의 상징 의류 중 하나로 자리잡음",
+      "usage_2026": "헤리티지 라인 핵심 아이템, 로고/그래픽 모티브로 활용"
+    },
+    {
+      "id": "lee-101",
+      "name": "Lee 101",
+      "year": 1926,
+      "type": "카우보이 팬츠 (시그니처 데님)",
+      "story": "카우보이 벤치에 지퍼 기능 추가. 세계 최초 지퍼 데님 바지 '101Z 모델'. 1950년대 데님 황금기를 만듦. 영화 '이유 없는 반항'에서 제임스 딘이 101Z 착용으로 젊은 세대에 반항의 상징으로 각인",
+      "usage_2026": "UNI 시그니처 라인 Basic Fit 재구축의 기준점, 26SS Basic Essential 라벨"
+    },
+    {
+      "id": "lazy-s",
+      "name": "Lazy-S",
+      "year": 1946,
+      "type": "백포켓 스티치 시그니처",
+      "story": "카우보이가 연상되는 소몰이 형태의 Lazy-S 스티치 장식. 1946년 처음 선보인 이후 오늘날까지 이어지는 Lee의 아이코닉한 디테일. Levi's Arcuate, Wrangler W와 함께 데님 3대 백포켓 시그니처",
+      "usage_2026": "모든 데님 팬츠 백포켓 필수 적용 (헤리티지 마커)"
+    },
+    {
+      "id": "buddy-lee",
+      "name": "Buddy Lee",
+      "year": 1920,
+      "type": "마스코트 캐릭터 (도자기 인형)",
+      "story": "광고용으로 제작된 최초의 Buddy Lee는 미네소타 주 데이비스 컴퍼니 백화점 쇼윈도에 전시. 수년간 성공을 거두며 수집가 아이템이 됨. Lee의 공식 마스코트, 브랜드 아이콘·레트로 감성의 상징",
+      "usage_2026": "로고 심볼(전신/얼굴), 그래픽 티·용품 모티브, 헤리티지 캡슐"
+    },
+    {
+      "id": "storm-rider",
+      "name": "Storm Rider",
+      "year": 1954,
+      "type": "데님/코듀로이 자켓",
+      "story": "제임스 딘 '까만'과 '이유 없는 반항'에서 착용. 1940~50년대 목장주·카우보이용 방한 라이닝 자켓에서 작업복·반항의 상징·패션으로 확장. Leesures 출시",
+      "usage_2026": "로고 자켓 형태로 현대화, 26FW 라인업 핵심"
+    }
+  ],
+  "timeline": [
+    { "year": 1889, "event": "H.D. Lee 캔자스 시티에서 Lee 상거 회사 설립, 고품질 작업복 제조 시작" },
+    { "year": 1911, "event": "Lee, 첫 오버롤 '다 쇼츠 오버롤' 출시 — 통풍이 잘되는 작업자 오버롤 개조" },
+    { "year": 1913, "event": "Union-Alls 개발. 편안함과 보호 기능으로 즉시 인기" },
+    { "year": 1920, "event": "H.D. Lee, 광고용 Buddy Lee 제작. Lee 브랜드 독보적 인기 소품으로 자리잡음" },
+    { "year": 1924, "event": "Lee, 카우보이 101 진 출시. 유니 개가이미·버튼 플라이 — 전세계 진즈의 혁신적 기능" },
+    { "year": 1926, "event": "Lazy-S 스티치 도입, 뒤 주머니 스티치. Lee Riders 레이블 카우보이 아이콘" },
+    { "year": 1938, "event": "전원·밭일용 튼튼한 Trail-on-Hell 가죽 재킷 출시. 카우보이 라이더 스타일 공고화" },
+    { "year": 1946, "event": "Lazy-S 스티치 도입 2탄 — 확장. Lee Riders 데님 출시" },
+    { "year": 1949, "event": "Lady Lee Riders, 여성 맞춤 특수 제작. 제품 및 유스 급 개발" },
+    { "year": 1954, "event": "James Dean, '이유 없는 반항'에서 Lee 착용. 작업복에서 반항의 상징 — Leesures 출시" },
+    { "year": 1982, "event": "Lee, 작업복에서 산업 스포츠 시장 확장. 유스 급 개발" },
+    { "year": 1995, "event": "Lee 중국으로 이전 후 아시아 대중 지역에서 성장. 주요 브랜드 중 하나로 자리잡음" },
+    { "year": 2009, "event": "H.D. Lee 120주년" },
+    { "year": 2019, "event": "Lee가 Kontoor Brands 그룹으로 분사. VF Corp에서 독립" },
+    { "year": 2021, "event": "Lee Korea 런칭 (B.CAVE 운영) — 로고 상품 집중, 카테고리 킬러, 무신사 중심 온라인 확대" },
+    { "year": 2022, "event": "브랜드 파이프라인 확립 — 전 카테고리 트렌디 이미지 확립" },
+    { "year": 2023, "event": "홍대 FSS 오픈, 여성 타겟팅 확장, 여성 카테고리 확장" },
+    { "year": 2024, "event": "오프라인 채널 확대, 자사몰 효율 강화, 효율적 유통망(몰/아울렛) 확장" },
+    { "year": 2025, "event": "제품 IMC 강화, 채널별 수익성 개선, 공간(SI) 경험" },
+    { "year": 2026, "event": "대세 브랜드 마케팅, 상품 기반 IMC, No.1 데님 스토리, 명동 FSS 오픈" }
+  ],
+  "future_roadmap": {
+    "2027": "데님 본격 확장 / 데이터 고도화 — 히트 아이템 부스팅, 라인 세분화, 빅데이터·CRM 그로스 마케팅",
+    "2028": "라이프스타일 침투 — 브랜드 경험 확장(생활·문화), 글로벌 통합 캠페인",
+    "2029": "글로벌 옴니채널 확장 — APAC 프로덕션·매니징 진출, 데님 코어 글로벌 헤리티지 패밀리 브랜드 포지셔닝"
+  },
+  "brand_muses_2026": [
+    {
+      "name": "NCT 재민",
+      "role": "Global Brand Ambassador (아이돌 팬덤)",
+      "target_audience": "10대 후반 ~ 20대 초반 남성 + 팬덤",
+      "purpose": "아이돌 팬덤 기반 브랜드 인지 확대, 20대 초반 신규 유입 풀 확보"
+    },
+    {
+      "name": "노윤서",
+      "role": "Brand Muse (여성 데님 아이콘)",
+      "target_audience": "20대 여성 + 남성 타겟 확장",
+      "purpose": "데님 팬츠 중심 스타일 제안, 여성 인지도 강화"
+    }
+  ],
+  "collaborations": [
+    { "year": "25SS", "partner": "A TWOSOME PLACE", "theme": "Lee × 투썸, 월레스&그로밋 귀여움 + 스타일. MZ 세대 굿즈 화제성·SNS 확산" },
+    { "year": "24FW", "partner": "innisfree", "theme": "Lee 헤리티지 × innisfree 진정성 자연주의 — 데님 디자인 아이템 협업" },
+    { "year": "24FW", "partner": "RAWROW", "theme": "Lee 시그니처 데님·헤리티지 × RAWROW 시그니처 스타일 재해석" },
+    { "year": "24SS", "partner": "Oh Lolly Day", "theme": "Lee 아이코닉 × 아트 그래픽 — 다이어리·펜·폰케이스" },
+    { "year": "24SS", "partner": "DIESEL", "theme": "Lee × DIESEL 글로벌 데님 콜라보 — Lazy-S 스티치 디테일 활용" },
+    { "year": "23SS", "partner": "Disney", "theme": "Lee 헤리티지 × Disney 캐릭터 그래픽 — Mickey/Original 시리즈 티셔츠·백" },
+    { "year": "22FW", "partner": "Engineered Garments", "theme": "Lee 헤리티지 × EG 스탠다드 제품 — Lee Riders 라인 중심" },
+    { "year": "21FW", "partner": "IAB STUDIO", "theme": "Lee 아이덴티티 데님 × IAB Studio 아트 로고 — MZ 각인 협업" },
+    { "year": "etc", "partner": "Be@rbrick / Stüssy / Peaceminusone / Slow Coaster", "theme": "Lee 로고 활용 피규어·데님 콜라보 아카이브" }
+  ],
+  "esg": {
+    "program": "indigood™",
+    "description": "기존 데님 염색 방식에서 필요한 물·에너지·화학물질을 줄이는 혁신적 공정",
+    "impacts": [
+      "90% less wastewater",
+      "매년 약 100억 리터의 물 절약",
+      "생분해성 백 패치, 재활용 하드웨어, 재생 농업 지원",
+      "100% 지속 가능 원료 공급 목표 (면화 재료·솝 유래 재료)"
+    ],
+    "other_initiatives": [
+      "지역 사회와 근로자 복지 — 글로벌 규칙 준수, 지역 NGO 협업",
+      "재생 가능 에너지 — 모든 운영 시설 전력",
+      "Non-GMO 면화 — 재생 농업 연구·교육 지원"
+    ],
+    "usage_2026": "ESG 마케팅 커뮤니케이션 핵심 메시지"
+  },
+  "usage_rules": {
+    "sacred_elements": [
+      "Lee 로고 형태 변형 금지 (R/박스/누끼 외)",
+      "Lazy-S 백포켓 스티치는 모든 데님에 필수",
+      "Buddy Lee 캐릭터는 공식 가이드 외 임의 변형 금지",
+      "House 로고는 비워크웨어 그래픽과 병용 금지 (카우보이·버디리 그래픽과 구분)"
+    ],
+    "confirmation_required": [
+      "로고 변형 (R/MR/MS/USA/누끼/박스 등)",
+      "House 로고 박스 분할·워딩 추가",
+      "Vintage 로고 1번 외 사용"
+    ]
+  }
+}

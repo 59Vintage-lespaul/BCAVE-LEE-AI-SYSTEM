@@ -1,0 +1,137 @@
+{
+  "_meta": {
+    "description": "Lee 사업부 운영 전략 — B.CAVE 산하 Lee Korea 조직 및 PDCA 운영 흐름",
+    "sources": [
+      "Lee_브랜드 아키텍쳐_종합_20260108(최종보고본).pptx",
+      "[Lee] 26SS 디자인,상품,소싱 기획안_250515(VSF).pdf",
+      "[Lee] Brand Introduction (KR) 250801.pdf"
+    ]
+  },
+  "organization": {
+    "parent_company": "B.CAVE (패션·라이프스타일 콘텐츠 회사 — 복수 브랜드 포트폴리오 운영)",
+    "business_unit": "Lee 사업부",
+    "license": "HD Lee Company (Kontoor Brands 산하) 국내 라이선스 운영",
+    "relaunch_year": 2021,
+    "headcount": "TBD (자료에서 미확인)",
+    "departments": "TBD — 26SS 문서상 디자인실·상품부·소싱·마케팅 분화 추정"
+  },
+  "pdca_cycle": {
+    "description": "시즌 단위 PDCA 운영 — Plan → Design → Do → Check → Act",
+    "current_season": "26FW",
+    "season_codes": ["25SS", "25FW", "26SS", "26FW", "27SS"]
+  },
+  "brand_pipeline_5_units": {
+    "description": "Lee 고유의 카테고리 운영 체계 — 브랜드 파이프라인 5종",
+    "units": [
+      { "name": "유니섹스 시그니처", "focus": "이익 직결 · NEW 테스트 베드", "sku_pct": 5, "production_pct": 18 },
+      { "name": "유니섹스 캐주얼", "focus": "정규 시즌 주력 · 트렌드 대응", "sku_pct": 40, "production_pct": 47 },
+      { "name": "유니섹스 헤리티지", "focus": "데님 코어 각인", "sku_pct": 2, "production_pct": 1 },
+      { "name": "우먼", "focus": "Signature / K-Fashion Inspired / American Teenager 3라인 조직 분리·통합 발전", "sku_pct": 27, "production_pct": 20 },
+      { "name": "악세서리", "focus": "신학기 마켓 쉐어 + 캐리오버 재정비", "sku_pct": 25, "production_pct": 13 }
+    ]
+  },
+  "product_strategy_26ss": {
+    "tag_total_krw_billion": 75.0,
+    "tag_by_line_krw_billion": { "unisex": 50.0, "womens": 15.0, "accessories": 10.0 },
+    "revenue_target_krw_billion": 37.5,
+    "revenue_growth_yoy_pct": 10,
+    "sell_through_rate_pct": 61,
+    "discount_rate_pct": 21.5,
+    "revenue_share_by_line_pct": { "unisex": 68, "womens": 19, "accessories": 13 }
+  },
+  "cdq_targets_2026": {
+    "cost_ratio": {
+      "target_pct": 21.5,
+      "baseline_25ss_pct": 22.5,
+      "improvement_pct": -1.0
+    },
+    "delivery_on_time_rate_target_pct": 90,
+    "defect_rate_target_pct": 0.3,
+    "principles": [
+      "원가 효율과 품질 안정 기반의 전략적 공급망 운영",
+      "생산 프로세스 체질 개선 — 리드타임 축소, 생산자 관리 강화, QC 단계 강화, 신규 생산기지 개발 (방글라데시·인도네시아 등)",
+      "원자재 버티컬 소싱화 — 해외 소재 소싱 확대 (중국·베트남·인도네시아·대만)",
+      "품질 안정화 — 품질 리스크 관리 강화, 전수·랜덤 TEST, 단계별 TBC, 공급망 평가 기준 추가",
+      "공급망 신뢰성 확대 — 공급 안정성·포트폴리오 다변화, 추가 POOL 구축, 전략적 소재 발굴 (CDO 이상, 여성·ACC 보완)"
+    ],
+    "expected_effects": {
+      "cost": "공임·자재비·물류비 절감 → 원가율 21.5%",
+      "delivery": "조기 투입 안정화 → 납기 90%+",
+      "quality": "생산 단계별 QA → 불량률 ≤0.3%",
+      "nego": "케파 사전 확보, 오버헤드 최소화 → 공임·MOQ 협상력↑"
+    }
+  },
+  "qr_strategy": {
+    "description": "리오더(Reorder) · SPOT 생산 중심 단기 대응",
+    "reference_25ss": { "qr_amount_krw_billion": 9.0, "qr_rate_pct": 13 },
+    "26ss_target": "TBD (자료에서 명시되지 않음)",
+    "goals": [
+      "호조 상품 리오더 비중 확대",
+      "단기 생산 일정 프로세스 확립",
+      "SPOT 스타일 확대 (차별화 + 재고 리스크 관리)"
+    ]
+  },
+  "marketing_imc_2026": {
+    "philosophy": "상품 기반 IMC — 상품 네이밍 → 육성, 스토리텔링 중심",
+    "key_message": "No.1 데님 스토리",
+    "media_mix": {
+      "legacy": ["옥외광고", "TV·인쇄", "매장 공간 (SI)"],
+      "trendy": ["숏폼 (TikTok/YouTube Shorts/Reels)", "인플루언서", "SNS(IG·YT)"],
+      "strategy": "레거시·트렌디 매체 통합 IMC"
+    },
+    "muse_strategy": {
+      "global_ambassador": "NCT 재민 (팬덤 유입)",
+      "female_muse": "노윤서 (20대 여성·남성 확장)",
+      "approach": "셀럽 단발 마케팅에서 지속적인 뮤즈 기반 브랜드 콘텐츠로 전환"
+    }
+  },
+  "channel_operation_2026": {
+    "store_expansion": {
+      "shop_in_shop": "82 → 88처 (+6)",
+      "fss": "2 → 3 (명동 FSS 추가)",
+      "focus": "S·A급 유통 집중 (더현대서울 등)"
+    },
+    "touchpoint": "매장·온라인 통합 경험 강화 — SI 공간 경험, 자사몰 개인화",
+    "fss_priority": "매출 BEP 상향이 최우선 (+62% 성장 목표)"
+  },
+  "target_operation": {
+    "main": "18~29세 신규 유입 (NCT 재민·노윤서 기반)",
+    "sub": "29~45세 헤리티지 수요자 유지",
+    "transition_path": "19-23 팬덤 유입 → 24-29 트렌드세터 전환 → 30-35 근본 수요 → 36-45 충성 고객",
+    "women_share_target": "+2%p (SKU·매출·생산 각 +2%p)"
+  },
+  "esg": {
+    "program": "indigood™",
+    "description": "기존 데님 염색 방식에서 필요한 물·에너지·화학물질을 줄이는 혁신 공정",
+    "impact": "90% less wastewater, 매년 약 100억 리터 물 절약",
+    "other_initiatives": [
+      "지역 사회와 근로자 복지 — 글로벌 규칙 준수, 지역 NGO 협업",
+      "재생 가능 에너지 — 모든 운영 시설 전력",
+      "Non-GMO 면화 — 재생 농업 연구·교육 지원",
+      "100% 지속 가능 원료 공급 목표"
+    ]
+  },
+  "material_focus_26ss": [
+    "쿨링 기능성 원단 — 에어로쿨, 마이판 리젠, 면터치 립스탑, 나일론 와샤, 소프트 터치 나일론",
+    "재생 소재 — 100% Pre-consumer 리사이클 나일론(GRS Certified), BCI 오가닉 코튼",
+    "지속가능 데님 공법 — indigood",
+    "USA Cotton Licensing — 미들 USA 코튼 레이어드 티셔츠 등"
+  ],
+  "global_roadmap": {
+    "2026": "명동 FSS 오픈 (외국인 타겟 교두보)",
+    "2027": "데이터 고도화 + 히트 부스팅",
+    "2028": "라이프스타일 침투 + 글로벌 통합 캠페인",
+    "2029": "APAC 프로덕션&매니징 진출"
+  },
+  "corporate_guidelines_refs": [
+    "system/presets/bcave/bta-guideline.md — 전사 BTA 상품/컬러 구성전략",
+    "system/presets/bcave/business-unit-guide.md — 사업부 업무 가이드",
+    "system/presets/bcave/file-naming-convention.json — 파일 네이밍 규칙"
+  ],
+  "weekly_meeting_framework": "TBD (자료에서 별도 확인되지 않음)",
+  "annual_calendar": {
+    "26ss_planning": "2025-05-19 디자인·상품·소싱 기획안 작성",
+    "26fw_planning": "2026-03-30 스케치업 및 라벨/그래픽 방향 정리",
+    "note": "품평·Go Drop 등 PDCA 이정표는 자료에서 미확인"
+  }
+}
